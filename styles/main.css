@@ -1,0 +1,246 @@
+/****************************************
+ * Cornell University 
+ * Goldsen Archive for New Media Art web site
+ * Main CSS Rules
+ * Authored by Melissa Kuo, DLIT, 2007
+ ****************************************/
+ 
+/****************************************
+ * General Formatting
+ ****************************************/
+
+body {margin: 0;padding: 0;font-family: "lucida sans", verdana, arial, sans-serif;font-size: 63.125%;color: #222;background: #afc8cd url(../images/layout/bg.gif) repeat-x top;}
+
+ 
+/****************************************
+ * Cornell Identity
+ ****************************************/
+
+#cu-identity {font-family:  verdana, arial, helvetica, sans-serif;height: 75px;background: #fff;background: #fff url(../images/layout/cu_identity_shadow.jpg) repeat-x bottom left; border-bottom: 1px solid #838383;}
+#cu-logo {position: absolute;top: 0;left: 50%;margin-left: -370px;width: 740px;height: 75px;background: url(../images/layout/library_2color.gif) no-repeat -8px -1px;}
+#cu-logo a {position: absolute;display: block;border: none;/* hide text link */text-indent: -1000em; }
+#insignia-link {width: 68px;height: 75px;}
+#unit-signature-links a {left: 68px;width: 185px;}
+#cornell-link {height: 38px;}
+#unit-link {top: 38px;height: 37px;}
+#cu-logo img {display: none;}
+ 
+/* Search Form */
+#search-form {position: absolute;top: 18px;right: 50%;margin-right: -385px;}
+#search-form form {margin: 0;padding: 0;text-align: right;}
+#search-form label {color: #333;}	
+#search-form-query {padding: 3px;width: 145px;border: none;font-family: verdana, arial, helvetica, sans-serif;font-size: 1.1em;font-weight: bold;color: #333;background: #f3f3f3 url(../images/layout/header_search.gif) no-repeat top left;vertical-align: middle;}
+#search-form-submit {padding: 0px 2px 3px 2px;;border-top: 1px solid #e5e5e5;border-left: 1px solid #e5e5e5;border-right: 1px solid #b3b3b3;border-bottom: 1px solid #b3b3b3;font-family: verdana, arial, helvetica, sans-serif;font-size: 1.0em;font-weight: bold;color: #333;background: #f2f2f2;vertical-align: middle;}
+#search-filters {margin: 5px 0 0 0;}
+#search-filters input {vertical-align: middle;margin: 0;}
+#search-filters label {vertical-align: middle;margin: 0 10px 0 0;} 
+ 
+/*	Search Navigation  */
+#search-navigation {position: absolute;top: 37px;right: 50%;margin-right: -385px;}
+#search-navigation ul {margin: 0;padding: 0;font-size: 1.1em;}
+#search-navigation li {float: left;margin: 0;padding: 0;background: none;}	
+#search-navigation a {float: left;padding: 5px 15px;color: #b31b1b;text-decoration: none;border: none;}
+#search-navigation a:hover {color: #f00;background: #eee;}
+
+/****************************************
+ * Content Sections
+ ****************************************/
+
+#wrap {margin: 0 auto;width: 850px;}
+#content-wrapper {margin: 0 auto;padding: 0;width: 850px;background: url(../images/layout/content_bg.gif) no-repeat top; float: left;}
+#content {float: left; margin: 0 25px; background: #fff;}
+#navigation {float: left; width: 190px; background: transparent; margin: 0 0 30px 0; padding: 0 0 0 20px;}
+#main {float: right; width: 540px;padding: 20px 20px 20px 0;background: transparent; margin: 0;}
+
+
+/****************************************
+ * Main Navigation
+ ****************************************/
+
+#navigation ul {margin: 0;padding: 0;font-size: 1.2em;font-weight: normal; background: #fff url(../images/layout/nav_bg.gif) repeat-y top left;}
+#navigation li {float: left;margin: 0;padding: 0;width: 100%; background: none;}
+#navigation a {display: block;padding: 5px 8px; width: 170px; border-bottom: 1px dotted #c8272a; color: #c8272a;text-transform: lowercase; text-decoration: none;}
+/* delete this if not putting it back in use -- #navigation a.first {padding: 0 8px 8px 8px;}*/
+#navigation a:hover {border-bottom: 1px solid #c8272a; text-decoration: none; background: #f6f6f6;}
+
+/* highlight current page or section */
+#home #nav-home, #about #nav-about, #gcollection #nav-gcollection, #scollection #nav-scollection, #internet #nav-internet, #listservs #nav-listservs, #resources #nav-resources, #seminars #nav-seminars {color: #c8272a; font-weight: bold;}
+
+/* take dotted line away if there are sub-nav items */
+#about #nav-about, #gcollection #nav-gcollection, #scollection #nav-scollection, #internet #nav-internet, #resources #nav-resources {border-bottom: none;}
+
+/****************************************
+ * Sub-Navigation
+ ****************************************/
+
+/*** design ***/
+/* adds border and space at bottom of sub-nav list */
+#about #subnav-wrapper-about, #gcollection #subnav-wrapper-gcollection, #scollection #subnav-wrapper-scollection, #internet #subnav-wrapper-internet, #listservs #subnav-wrapper-listservs, #resources #subnav-wrapper-resources {float: left; border-bottom: 1px dotted #c8272a; padding: 0 0 15px 0;}
+
+#sub-navigation ul {margin: 0 0 0 10px; padding: 0;font-size: 1.0em;font-weight: normal;}
+#sub-navigation li {background: url(../images/layout/bullet2.gif) no-repeat 2px 0.65em;}
+#sub-navigation a {display: block; padding: 3px 8px 3px 15px; width: 150px; border-bottom: none; color: #666; text-decoration: none;}
+#sub-navigation a:hover {border-bottom: none; color: #c8272a; text-decoration: none; background: #f6f6f6 url(../images/layout/bullet2.gif) no-repeat 2px 0.65em;}
+
+#subnav-content li, #subnav-media li {background: url(../images/layout/bullet.gif) no-repeat 5px 0.8em;}
+#subnav-content a:hover, #subnav-media a:hover {border-bottom: none; color: #c8272a; text-decoration: none; background: #f6f6f6 url(../images/layout/bullet.gif) no-repeat 5px 0.8em;}
+
+/*** highlight current page or section ***/
+/* about */
+#nav-news #subnav-news, #nav-use #subnav-use, #nav-staff #subnav-staff, #nav-advisory #subnav-advisory, #nav-contact #subnav-contact,
+/* general collection */
+#nav-recent #subnav-recent, 
+/* general collection media sub-nav */
+#nav-audio #subnav-audio, #nav-bio #subnav-bio, #nav-exhibitions #subnav-exhibitions, #nav-installation #subnav-installation, #nav-interactive #subnav-interactive, #nav-online #subnav-online, #nav-performance #subnav-performance, #nav-theory #subnav-theory, #nav-video #subnav-video,
+/* general collection content sub-nav */
+#nav-cd #subnav-cd, #nav-vhs #subnav-vhs, #nav-books #subnav-books, #nav-manuscripts #subnav-manuscripts, #nav-monographs #subnav-monographs,
+/* special collection */
+#nav-renew #subnav-renew, #nav-wen #subnav-wen, #nav-yao #subnav-yao, #nav-lynn #subnav-lynn, #nav-zalis #subnav-zalis, #nav-etc #subnav-etc,
+/* internet art */
+#nav-ctheory #subnav-ctheory, #nav-computer #subnav-computer, #nav-infos #subnav-infos, #nav-turbulence #subnav-turbulence, #nav-lowfi #subnav-lowfi, #nav-ecopoetics #subnav-ecopoetics
+/* listservs 
+#nav-empyre #subnav-empyre,*/
+/* resources  -- comment out resources sub-nav because these items are anchor links and don't load up their own pages
+#nav-langlois #subnav-langlois, #nav-tv #subnav-tv, #nav-contactzones #subnav-contactzones, #nav-asia #subnav-asia, #nav-newmedia #subnav-newmedia, #nav-fact #subnav-fact, #nav-ctheory-r #subnav-ctheory-r, #nav-virtual #subnav-virtual*/
+{font-weight: bold; color: #c8272a;}
+ 
+/****************************************
+ * Text Styles
+ ****************************************/
+ 
+/* Headlines */
+h1 {margin: 0 0 15px 0; padding: 0; font-size: 2.4em; font-weight: normal; color: #c8272a; text-transform: lowercase;}
+h2 {margin: 15px 0 5px 0; padding: 0 0 3px 0; font-size: 1.5em; font-weight: bold; color: #836531; border-bottom: 1px dotted #d2c7b4;}
+h3 {margin: 0 0 10px 0; padding: 8px 4px; color: #836531; text-transform: lowercase; font-size: 1.4em; font-weight: bold; text-align: center;}
+h4 {margin: 15px 0 5px 0; padding: 0; font-size: 1.2em; font-weight: bold; text-transform: uppercase;}
+
+	
+/* Text */
+p {margin: 0 0 10px 0;font-size: 1.2em;line-height: 1.8em;}	
+blockquote {margin: 0 30px 20px 30px;}
+	
+/* captions */	
+.caption {font-size: 1.0em;line-height: 1.4em;color: #666; text-align: center;}
+	
+/* Lists */
+ul, ol {margin: 0 0 15px 0;padding: 0;font-size: 1.2em;line-height: 1.4em;}
+ul li {margin: 5px 0;padding: 0 0 0 30px;list-style: none;background: url(../images/layout/bullet.gif) no-repeat 18px 0.65em;}
+ol li {margin: 5px 0 5px 30px;}
+dl {margin: 0 0 15px 0;line-height: 1.4em;}	
+dt {margin: 0 0 3px 0;font-size: 1.2em;font-weight: bold;}
+dd {margin: 0 0 15px 0;font-size: 1.3em;line-height: 1.4em;}
+ul ul {font-size: 1.0em;}
+
+#main ul, #main ol {line-height: 1.6em;}
+
+/* Links */
+a {color: #1f716f;}
+a:visited {color: #53a3b1;}
+a:hover {color: #c8272a;}
+a:active {color: #c8272a;}
+
+h2 a {text-decoration: none;}
+
+/****************************************
+ * Images
+ ****************************************/
+
+img {border: 0;}
+ 
+/****************************************
+ * Forms
+ ****************************************/
+
+fieldset {float: left;margin: 0;padding: 10px 0 15px 0;width: 510px;border: none;}
+.form-pair {display: inline;	/* prevent ie6/win from doubling margins */float: left;margin: 5px 15px 0 15px;width: 480px;}
+.form-item {float: left;margin-top: 7px;width: 105px;font-size: 1.1em;line-height: 1.5em;text-align: right;}	
+.form-value {float: right;margin-top: 5px;width: 360px;font-size: 1.1em;line-height: 1.5em;}
+.input-text, select, textarea {font-family: verdana, arial, helvetica, sans-serif;font-size: 1em;}
+.form-submit {border-top: 1px dashed #d2d2d2;}
+.form-submit-buttons {text-align: right;padding-right: 15px;}
+.form-submit-buttons .input-reset {margin-right: 5px;}
+.input-browse {font-family: verdana, arial, helvetica, sans-serif;}
+.input-submit, .input-reset {font-family: verdana, arial, helvetica, sans-serif;font-size: 1.1em;}
+.input-submit {font-weight: bold;} 
+ 
+/****************************************
+ * Footer
+ ****************************************/
+
+#footer {float: left;width: 100%;}
+#footer-content {margin: 0 auto;padding: 20px;font-size: 1.0em;}
+ 
+#about #footer, #gcollection #footer, #scollection #footer, #internet #footer, #listservs #footer, #resources #footer, #seminars #footer, #map #footer, #results #footer {background: url(../images/layout/squares_bg_small.gif) no-repeat top; padding: 20px 0 0 0;}
+ 
+/****************************************
+ * Miscellaneous
+ ****************************************/
+
+/* 
+	Hide "skip to content" link from general users. 
+	Do not use display: none, as that will also hide it from some screen readers.
+*/
+#skipnav {position: absolute;top: -1000em;left: -1000em;}
+	
+/* 
+	Hide horizontal rules (hr) that are found throughout the site.
+	The rules are semantic separations of content, and they are useful for 
+	browsers that cannot utilize the stylesheet.
+*/	
+hr {display: none;}
+
+
+/****************************************
+ * Melissa's CSS
+ ****************************************/
+.italic {font-style: italic;}
+.gray {color: #666;}
+.floatleft {float: left; width: 33%; padding: 0 0 15px 0;}
+.floatleft-image {float: left; margin: 0 10px 0 0;}
+.floatright {float: right;padding: 0;width: 200px; margin: 0 0 10px 15px;}
+.floatright-image {float: right; padding: 0; margin: 0 0 10px 15px;}
+/* .floatright img {margin-bottom: 10px;} */
+.floatright-box {float: right;padding: 3px; width: 200px; margin: 0 0 0 15px; border: 1px solid #d2c7b4;}
+.floatright-300 {float: right;padding: 0;width: 300px; margin: 0 0 0 15px;}
+a.no-border {border: none;}
+a.no-border:hover {border: none;}
+.center {text-align: center;}
+.center-padded {text-align: center; padding-top: 10px;}
+.bold {font-weight: bold;}
+.emphasis {font-weight: bold; color: #8e2b04; font-size: 150%;}
+.left {text-align: left;}
+.right {text-align: right;}
+.right-padded {text-align: right; padding-top: 5px;}
+.large {font-size: 130%;}
+.small-gray {font-size: 1.0em; color: #666;}
+.underline {text-decoration: underline;}
+.border-top {border-top: 1px dotted #d2c7b4; padding-top: 10px;}
+.clear {clear:both;margin:15px 10px;}
+
+/* breadcrumbs */
+#breadcrumbs {font-size: 1.0em; margin: 0 0 15px 0; text-transform: lowercase;}
+
+/* renew recipients 2-column lists */
+.row {float: left; clear: left; width: 100%;}
+.left-column {float: left; width: 45%;}
+.right-column {float: right; width: 45%;}
+
+/* background of captions */
+.caption-box {display: block; background: url(../images/layout/caption_bg.jpg) no-repeat top left; padding: 12px 4px 10px 4px; margin: -3px 0 10px 0;}
+.caption-box p {margin: 0;}
+
+/* one column pages, such as Site Map */
+.one-column #main {float: left; width: 760px; padding: 20px;background: transparent; margin: 0;}
+
+/* two columns, like on Site Map */
+#column1 {float: left; width: 360px;}
+#column2 {float: right; width: 360px;}
+
+/* home page thumbnails - fake image map */
+#thumbnails-wrap {float: left; background: url(../images/squares_bg.gif) top left; height: 120px; width: 800px;}
+#thumbnails-content {float: left; width: 100%;}
+#thumbnails-content img {float: left; padding-left: 20px;}
+
+/* Library catalog search box */
+#catalog-search {margin: 0 0 15px 0; text-align: center; background: #ededed;}
+#catalog-search form {padding: 10px;}

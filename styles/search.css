@@ -1,0 +1,243 @@
+
+/********** GENERAL FORMATTING **********/
+
+#searchresults {
+	float: left;
+	width: 100%;
+	border-top: 1px solid #ddd;
+	margin-top: 15px;
+}
+
+#searchresults p {
+	margin-top: 15px;
+}
+
+.oddsection, .evensection {
+	float: left;
+	padding: 0;
+}
+
+/********** GOOGLE RESULTS  **********/
+
+#spelling_suggestion {
+	clear: both;
+}
+
+
+#synonym_suggestion {
+	clear: both;
+}
+
+
+#searchbox_top, #searchbox_bottom{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	height: 33px;
+	clear: both;
+}
+
+
+#searchbox_top form#searchbox, #searchbox_bottom form#searchbox {
+	width: auto;
+}
+
+
+#google_links_top, #google_links_bottom {
+	padding-top: 6px;
+	padding-bottom: 1px;
+	font-size: 0.7em;
+	float: left;
+	margin-left: 1em;
+}
+
+
+#top_sep_bar {
+	clear: both;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 1.1em;
+}
+
+
+#search_navigation_top {
+	clear: both;
+	float: left;
+	margin: 0;
+	padding-top: 0.3em;
+	font-size: 0.7em;
+	width: 400px;
+}
+
+#search_navigation_top #sortby {
+	float: left;
+}
+
+.nav_result_pages {
+	margin-top: 17px;
+	font-size: 0.8em;
+}
+
+#search_navigation_top .nav_result_pages {
+	margin-top: 0;
+	font-size: 1em;
+}
+
+
+#googleresults {
+	width: 100%;
+	clear: both;
+	padding-top: 10px;
+	font-size: 100%;
+	margin: 0 0 15px 0;
+	overflow: hidden;
+}
+
+#googleresults p {
+	padding-bottom: 10px;
+}
+
+#googleresults p.keymatch {
+	width: 100%;
+	background-color: white;
+	border: none;
+}
+
+#googleresults p.indent {
+	margin-left: 2em;
+}
+
+#googleresults .doc_type {
+	font-weight: bold;
+	font-size: 0.8em;
+}
+
+#googleresults .l, #googleresults .lk {
+	font-size: 1.0em;
+	font-weight: bold;
+}
+
+#googleresults .kk {
+	color: #68645b;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+
+#googleresults .url, #googleresults .a, #googleresults .rs, #googleresults .rd {
+	color: #68645b;
+}
+
+#googleresults .f {
+}
+
+
+/*** h2 fixes margin ie6 collapse for advanced search ***/
+	
+#maincontent h2 {
+	clear: both;
+	padding: 25px 0 10px 0;
+	margin: 0;
+	}
+
+form.adv_search  {
+	clear: both;
+	margin: 0 0 8px 0;
+	padding: 0;
+	width: 100%;
+}
+
+#maincontent form.adv_search h3 {
+	color: #222;
+	margin-bottom: 0;
+	padding: 7px 0px 0px 12px;
+}
+
+
+form.adv_search .formpair {
+	clear: both;
+	margin: 0 0 5px 0;
+	width: 100%;
+}
+
+form.adv_search .formlabel {
+	font-weight: normal;
+	width: 400px;
+}
+
+form.adv_search .forminput {
+	/* ie5/mac hack */
+	margin-top: -15px;
+	width: 320px;
+	
+	/* all other browsers \*/
+	margin-top: 0;
+	width: 320px;
+	/* stop hiding from ie5/mac */
+}
+
+form.adv_search .formsubmit {	
+	margin-bottom: 0px;
+}	
+
+form.adv_search .searchinstructions {
+	/* ie5/mac hack */
+	display: block;
+	padding-bottom: 15px;
+	color: #68645b;
+
+	/* all other browsers \*/
+	display: inline;
+	color: #68645b;
+	/* stop hiding from ie5 */
+}
+
+form.adv_search .evensection {
+	width: 740px;
+	}
+
+/********** SEARCH TIPS  **********/
+	
+#maincontent .form {
+	float: none;
+	border-top: 0px;
+	}
+	
+#maincontent .formsample {
+	float: none;	
+	margin: 8px 0 8px 0;
+	padding: 18px;
+	width: 60%;
+	border-top: 0px;
+	background: #fafaf7;
+	}
+
+#maincontent .googlenote {
+	color: #999;
+	font-size: 0.69em;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: 0;
+	}
+	
+#maincontent ul.searchlist {
+	margin-top: 0;
+	}
+	
+#maincontent .searchlist li {
+	margin: 0 0 8px 0;
+	}
+
+#maincontent p.top {
+	font-size: 0.6em;
+	font-weight: normal;
+	text-align: right;
+	margin: 0 12px 5px 0;
+	padding-bottom: 12px;
+	border-bottom: 1px solid #ccc;
+	}
+	
+#maincontent .tablespacing {
+	margin-bottom: 12px;
+	}
+

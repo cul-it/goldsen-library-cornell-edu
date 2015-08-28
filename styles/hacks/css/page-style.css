@@ -1,0 +1,12 @@
+BODY{padding-left:0px;margin-left:10px;margin-right:10px;margin-top:0px;margin-bottom:0px;background-color:#F1F1F1;font-family:Arial;font-size:12px;font-weight:normal;font-style:normal;scrollbar-face-color:#F8F4F8;scrollbar-highlight-color:#FFFFFF;scrollbar-shadow-color:#F8F4F8;scrollbar-3dlight-color:#FFFFFF;scrollbar-arrow-color:#990099;scrollbar-track-color:#EDF0ED;scrollbar-darkshadow-color:#98AAB1;}
+H1{font-family:Times New Roman;font-size:24px;margin-bottom:0px;font-style:normal;font-weight:bold;line-height:28px;color:#60657F;}	
+H2{font-family:Times New Roman;font-size:16px;font-weight:bold;font-style:normal;line-height:18px;color:#60657F;margin-bottom:0px;}	
+H3{font-family:Verdana;font-size:12px;font-weight:bold;font-style:normal;line-height:16px;color:#60657F;margin-bottom:0px;}	
+A{font-family:Verdana;font-size:12px;}
+A:link{text-decoration:underline;color:#0303F1;}	
+A:visited{text-decoration:underline;color:#0303F1;}	
+A:active{text-decoration:underline;color:#FF6600;}	
+A:hover {text-decoration:underline;color:#FF6600;}
+P{margin-bottom:7px;margin-top:7px;}
+UL{list-style-type:disc;list-style-position:outside;margin-left:18px;margin-bottom:2px;margin-top:2px;text-align:left;}	
+UL LI{padding-top:0px;padding-bottom:5px;list-style-type:disc;}	

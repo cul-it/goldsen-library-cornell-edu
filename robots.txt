@@ -1,0 +1,11 @@
+#
+# Prevent all well-behaved robots from launching servlets or CGIs
+#
+
+User-agent: *
+Disallow:   /cgi-bin
+Disallow:   /phpMyAdmin/
+
+User-agent: *
+Crawl-delay: 10
+

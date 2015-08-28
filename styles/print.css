@@ -1,0 +1,35 @@
+/****************************************
+ * Cornell University 
+ * Goldsen Archive for New Media Art web site
+ * Print styles
+ * Authored by Melissa Kuo, DLIT, 2007
+ ****************************************/
+ 
+/****************************************
+ * General Formatting
+ ****************************************/
+
+body {font-family: "lucida sans", verdana, arial, sans-serif;}
+
+#skipnav, #cu-identity, #navigation, hr {display: none;}
+
+img {border: none;}
+
+/*
+a:link:after,
+a:visited:after {
+  content: " (" attr(href) ") ";
+  font-size: 90%;
+}
+*/
+
+/* hide Back to Top anchor links on the Resources page */
+#resources p.small-gray {display: none;}
+
+.bold {font-weight: bold;}
+.italic {font-style: italic;}
+.underline {text-decoration: underline;}
+
+#breadcrumbs, #footer {font-size: 9pt;}
+
+#footer {margin-top: 40px;}

