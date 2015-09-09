@@ -19,30 +19,39 @@
 
 <div id="wrap">
   <div id="content-wrapper">
-  		
+
 	  	<div id="content">
         	<?php showImage(); ?>
-		    
-            <?php include("inc/navigation.php") ?>
-            
-		    <hr />
-		
-		    <div id="main">
-            	
-		      	<h1>Search Results</h1>
-				<?php cul_web_search_results(); ?> 
-                
-      	  	</div> <!--close #main -->
 
-            
-            
+            <?php include("inc/navigation.php") ?>
+
+		    <hr />
+
+		    <div id="main">
+          <script>
+            (function() {
+              var cx = '006762482862802971692:r-lchx86oz0';
+              var gcse = document.createElement('script');
+              gcse.type = 'text/javascript';
+              gcse.async = true;
+              gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                  '//cse.google.com/cse.js?cx=' + cx;
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(gcse, s);
+            })();
+          </script>
+          <gcse:search></gcse:search>
+      	 </div> <!--close #main -->
+
+
+
             <?php include("inc/footer.php") ?>
-            
-			
-			
+
+
+
     	</div>  <!--close #content -->
 	</div>	<!--close #content-wrapper -->
-	
+
 <hr />
 
 
