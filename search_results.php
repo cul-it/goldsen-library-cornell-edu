@@ -14,7 +14,7 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/styles/search.css" />
 </head>
 <body id="results">
-<?php include("inc/cu_identity2.php") ?>
+<?php include("inc/cu_identity.php") ?>
 
 
 <div id="wrap">
