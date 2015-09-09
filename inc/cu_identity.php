@@ -21,6 +21,6 @@
             s.parentNode.insertBefore(gcse, s);
           })();
         </script>
-        <gcse:search></gcse:search>
+        <gcse:searchbox-only></gcse:searchbox-only>
     </div>
 </div>
