@@ -9,6 +9,6 @@
 	</div>
 
     <div id="search-form">
-        <a href="search_results.php">SEARCH</a>
+        <a href="/search_results.php" title="search this site">SEARCH</a>
     </div>
 </div>
