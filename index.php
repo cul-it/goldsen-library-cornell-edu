@@ -17,16 +17,15 @@
 
 <div id="wrap">
   <div id="content-wrapper">
-  		
+
 	  	<div id="content">
         	<?php showImage(); ?>
-		    
+
             <?php include("inc/navigation.php") ?>
-            
-		    <hr /> 
-		
+
+		    <hr />
+
 		    <div id="main">
-            	
 		      	<p class="large">Under the sponsorship of The Division of Rare and Manuscript Collections, the Rose Goldsen Archive of New Media Art serves as a research repository of new media art and resources. The curatorial vision emphasizes digital interfaces and artistic experimentation by international, independent artists. Designed as an experimental center of research and creativity, the Goldsen Archive includes materials by individual artists and collaborates on conceptual experimentation and archival strategies with international curatorial and fellowship projects.</p>
 
                 <!-- <h2>Latest News</h2>
