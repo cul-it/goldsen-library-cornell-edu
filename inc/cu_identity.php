@@ -9,24 +9,18 @@
 	</div>
 
     <div id="search-form">
-        <form action="/search_results.php" method="get" name="gs">
-            <div id="search-input">
-                <label for="search-form-query">SEARCH:</label>
-                <input type="text" name="q" value="" size="50" maxlength="256" id="search-form-query" />
-                <input type="submit" name="btnG" value="go" id="search-form-submit" />
-                <input type="hidden" name="output" value="xml_no_dtd" />
-                <input type="hidden" name="sort" value="" />
-                <input type="hidden" name="ie" value="UTF-8" />
-                <input type="hidden" name="gsa_client" value="default_frontend" />
-                <input type="hidden" name="oe" value="UTF-8" />
-            </div>
-            <div id="search-filters">
-                <input type="radio" name="sitesearch" value="goldsen.library.cornell.edu" checked="checked" id="search-filters1" />
-                <label for="search-filters1">This site</label>
-                <input type="radio" name="sitesearch" value="cornell.edu"  id="search-filters2" />
-                <label for="search-filters2">Cornell</label>
-                <a href="http://web.search.cornell.edu/">more options</a>
-            </div>
-        </form>
+        <script>
+          (function() {
+            var cx = '006762482862802971692:r-lchx86oz0';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+          })();
+        </script>
+        <gcse:search></gcse:search>
     </div>
 </div>
