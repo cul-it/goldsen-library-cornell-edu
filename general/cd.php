@@ -59,5 +59,6 @@
 
 </div> <!--close #wrap -->
 <?php include("../inc/ga.php") ?>
+<?php include("../inc/piwik.php") ?>
 </body>
 </html>

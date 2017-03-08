@@ -62,5 +62,6 @@ http://adwhiteprofessors.cornell.edu/description.html" title="A.D. White Profess
 
 </div> <!--close #wrap -->
 <?php include("../inc/ga.php") ?>
+<?php include("../inc/piwik.php") ?>
 </body>
 </html>
