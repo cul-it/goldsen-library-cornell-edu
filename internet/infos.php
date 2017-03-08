@@ -98,5 +98,6 @@ besieged zones that might not have had access to the high speed connections nece
 
 </div> <!--close #wrap -->
 <?php include("../inc/ga.php") ?>
+<?php include("../inc/piwik.php") ?>
 </body>
 </html>
