@@ -17,34 +17,34 @@
 
 <div id="wrap">
   <div id="content-wrapper">
-  		
+
 	  	<div id="content">
         	<a href="/index.php" title="Rose Goldsen Archive home page"><img src="/images/banners/theory.jpg" alt="Rose Goldsen Archive of New Media Art" /></a>
-		    
+
             <div id="nav-theory">
             	<?php include("../inc/navigation.php") ?>
             </div>
 		    <hr />
-		
+
 		    <div id="main">
             	<div id="breadcrumbs">
                 	<a href="/index.php" title="home">home</a> > <a href="/general/index.php" title="general collection">general collection</a> > Theory &amp; Criticism
                 </div>
-            	
+
                 <?php include("../inc/catalog.php") ?>
                 <h1>Theory &amp; Criticism</h1>
-				<?php include("goldsen_fm.php"); goldsen_content("theory & criticism"); ?>
-                
+				<?php include("goldsen_static.php"); goldsen_content("theory & criticism"); ?>
+
       	  	</div> <!--close #main -->
 
-            
+
             <?php include("../inc/footer.php") ?>
-            
-			
-			
+
+
+
     	</div>  <!--close #content -->
 	</div>	<!--close #content-wrapper -->
-	
+
 <hr />
 
 

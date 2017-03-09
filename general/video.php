@@ -17,34 +17,34 @@
 
 <div id="wrap">
   <div id="content-wrapper">
-  		
+
 	  	<div id="content">
         	<a href="/index.php" title="Rose Goldsen Archive home page"><img src="/images/banners/video.jpg" alt="Rose Goldsen Archive of New Media Art" /></a>
-		    
+
             <div id="nav-video">
             	<?php include("../inc/navigation.php") ?>
             </div>
 		    <hr />
-		
+
 		    <div id="main">
             	<div id="breadcrumbs">
                 	<a href="/index.php" title="home">home</a> > <a href="/general/index.php" title="general collection">general collection</a> > Video/Cinema
                 </div>
-            	
+
                 <?php include("../inc/catalog.php") ?>
                 <h1>Video/Cinema</h1>
-                <?php include("goldsen_fm.php"); goldsen_content("video/cinema"); ?>
-                
+                <?php include("goldsen_static.php"); goldsen_content("video/cinema"); ?>
+
       	  	</div> <!--close #main -->
 
-            
+
             <?php include("../inc/footer.php") ?>
-            
-			
-			
+
+
+
     	</div>  <!--close #content -->
 	</div>	<!--close #content-wrapper -->
-	
+
 <hr />
 
 
