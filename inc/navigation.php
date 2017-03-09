@@ -1,5 +1,5 @@
 <?php include('current_directory.php') ?>
-<div id="navigation"> 
+<div id="navigation">
   	<ul>
     	<li><a href="/index.php" title="home" id="nav-home">home</a></li>
         <li><a href="/about/index.php" title="about" id="nav-about">about</a>
@@ -15,8 +15,8 @@
                         <li><a href="/about/contact.php" title="contact" id="subnav-contact">contact</a></li>
                     </ul>
                 </div>
-            </div>     
-            <?php } ?>       
+            </div>
+            <?php } ?>
         </li>
         <li><a href="/general/index.php" title="general collection" id="nav-gcollection">general collection</a>
        		<?php if ($current_directory == 'general') { ?>
@@ -49,7 +49,7 @@
                     </ul>
                 </div>
             </div>
-            <?php } ?>                   
+            <?php } ?>
         </li>
         <li><a href="/special/index.php" title="special collections" id="nav-scollection">special collections</a>
        		<?php if ($current_directory == 'special') { ?>
@@ -67,7 +67,7 @@
                     </ul>
                 </div>
             </div>
-            <?php } ?>       
+            <?php } ?>
         </li>
         <li><a href="/internet/index.php" title="internet art" id="nav-internet">internet art</a>
        		<?php if ($current_directory == 'internet') { ?>
@@ -84,7 +84,7 @@
                     </ul>
                 </div>
             </div>
-            <?php } ?>       
+            <?php } ?>
         </li>
         <li><a href="/video/index.php" title="video art" id="nav-video">video art</a>
 		<li><a href="/listservs/index.php" title="listservs" id="nav-listservs">listservs</a></li>
@@ -116,7 +116,7 @@
                     </ul>
                 </div>
             </div>
-            <?php } ?>       
+            <?php } ?>
         </li>
     </ul>
 </div>
