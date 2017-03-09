@@ -1,11 +1,5 @@
 <?php
 
-function goldsen_recent() {
-  // recent aquisitions
-  //goldsen_show_result_set("Recent Acquisition", "Yes");
-  echo "<h2>No recent acquistions.</h2>\r";
-  }
-
 function goldsen_media($media) {
   // media types
   $coll = goldsen_load_collection("Media", $media);
