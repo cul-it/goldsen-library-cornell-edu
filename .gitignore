@@ -1,2 +1,3 @@
 # ignore drupal subsite
 etc/**
+.editorconfig

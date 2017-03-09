@@ -17,15 +17,15 @@
 
 <div id="wrap">
   <div id="content-wrapper">
-  		
+
 	  	<div id="content">
         	<a href="/index.php" title="Rose Goldsen Archive home page"><img src="/images/banners/cd.jpg" alt="Rose Goldsen Archive of New Media Art" /></a>
-		    
+
             <div id="nav-cd">
             	<?php include("../inc/navigation.php") ?>
             </div>
 		    <hr />
-		
+
 		    <div id="main">
             	<div id="breadcrumbs">
                 	<a href="/index.php" title="home">home</a> > <a href="/general/index.php" title="general collection">general collection</a> > CD-DVD
@@ -39,21 +39,21 @@
                     </div>
                 </div>
 		      	<p>The Goldsen Archive maintains an extensive collection of interactive artwork on CD/DVD-Rom. Further information about many of these holdings can be accessed on the online catalogue of the exhibition, <a href="http://contactzones.cit.cornell.edu" title="Contact Zones web site">Contact Zones: The Art of CD-Rom</a>, which informed the founding vision of the Archive.</p>
-				<?php include("goldsen_fm.php"); goldsen_media("CD/DVD"); ?>
-                
-                
-                
-                
+				<?php include("goldsen_static.php"); goldsen_media("CD/DVD"); ?>
+
+
+
+
    	  	  </div> <!--close #main -->
 
-            
+
             <?php include("../inc/footer.php") ?>
-            
-			
-			
+
+
+
     	</div>  <!--close #content -->
 	</div>	<!--close #content-wrapper -->
-	
+
 <hr />
 
 
