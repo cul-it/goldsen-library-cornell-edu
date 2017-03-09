@@ -17,34 +17,34 @@
 
 <div id="wrap">
   <div id="content-wrapper">
-  		
+
 	  	<div id="content">
         	<a href="/index.php" title="Rose Goldsen Archive home page"><img src="/images/banners/books.jpg" alt="Rose Goldsen Archive of New Media Art" /></a>
-		    
+
             <div id="nav-books">
             	<?php include("../inc/navigation.php") ?>
             </div>
 		    <hr />
-		
+
 		    <div id="main">
             	<div id="breadcrumbs">
                 	<a href="/index.php" title="home">home</a> > <a href="/general/index.php" title="general collection">general collection</a> > Artist Books &amp; Drawings
                 </div>
-            	
+
                 <?php include("../inc/catalog.php") ?>
                 <h1>Artist Books &amp; Drawings</h1>
 
-		      	<?php include("goldsen_fm.php"); goldsen_media("artist books & drawings"); ?>
+		      	<?php include("goldsen_static.php"); goldsen_media("artist books & drawings"); ?>
       	  	</div> <!--close #main -->
 
-            
+
             <?php include("../inc/footer.php") ?>
-            
-			
-			
+
+
+
     	</div>  <!--close #content -->
 	</div>	<!--close #content-wrapper -->
-	
+
 <hr />
 
 

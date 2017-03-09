@@ -6,10 +6,10 @@
 
   Copyright (c) 2004 Automatic, Ltd. All Rights Reserved.
 
-  THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OR CONDITION OF 
-  ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY 
-  IMPLIED WARRANTIES OF ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR 
-  PURPOSE OR NONINFRINGEMENT.  
+  THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OR CONDITION OF
+  ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY
+  IMPLIED WARRANTIES OF ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR
+  PURPOSE OR NONINFRINGEMENT.
 
   IN NO EVENT SHALL DAN BENJAMIN, A LIST APART, OR AUTOMATIC, LTD. BE LIABLE
   FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR
@@ -40,36 +40,38 @@
     }
     # pick a random image from the parsed config file
     $img = array_rand($images);
-    # get the selected image's css id if one exists
-    $id = $images[$img]['id'] ?
-      sprintf( ' id="%s" ', $images[$img]['id'] ) :
-      '';
-    # get the selected image's css class if one exists
-    $class = $images[$img]['class'] ?
-      sprintf( ' class="%s" ', $images[$img]['class'] ) :
-      '';
-    # get selected image's dimensions
-    $size = @getimagesize( $images[$img]['src'] );
-    # if an url was specified, output the opening A HREF tag
-    if ( $images[$img]['url'] ) {
+    if (isset($images["$img"])) {
+      # get the selected image's css id if one exists
+      $id = !empty($images[$img]['id']) ?
+        sprintf( ' id="%s" ', $images[$img]['id'] ) :
+        '';
+      # get the selected image's css class if one exists
+      $class = !empty($images[$img]['class']) ?
+        sprintf( ' class="%s" ', $images[$img]['class'] ) :
+        '';
+      # get selected image's dimensions
+      $size = @getimagesize( $images[$img]['src'] );
+      # if an url was specified, output the opening A HREF tag
+      if ( !empty($images[$img]['url']) ) {
+        printf(
+          '<a href="%s" title="%s">',
+          $images[$img]['url'],
+          $images[$img]['title']
+        );
+      }
+      # output the IMG tag
       printf(
-        '<a href="%s" title="%s">',
-        $images[$img]['url'],
-        $images[$img]['title']
+        '<img src="%s" alt="%s" %s %s%s/>',
+        $images[$img]['src'],
+        $images[$img]['alt'],
+        $size[3],
+        $id,
+        $class
       );
-    }
-    # output the IMG tag
-    printf(
-      '<img src="%s" alt="%s" %s %s%s/>',
-      $images[$img]['src'],
-      $images[$img]['alt'],
-      $size[3],
-      $id,
-      $class
-    );
-    # if an url was specified, output the closing A HREF tag
-    if ( $images[$img]['url'] ) {
-      echo('</a>');
+      # if an url was specified, output the closing A HREF tag
+      if ( !empty($images[$img]['url']) ) {
+        echo('</a>');
+      }
     }
   }
 
