@@ -1,5 +1,18 @@
 <?php
 
+function goldsen_media($media) {
+  // media types
+  $coll = goldsen_load_collection("Media", $media);
+  goldsen_show_content($coll);
+}
+
+function goldsen_content($content) {
+  // content types
+  $coll = goldsen_load_collection("Content", $content);
+  goldsen_show_content($coll);
+  }
+
+
 /*
   data format is
   Export Media & "<:-:>" & Export Content & "<:-:>" & Author & "<:-:>" & Title & "<:-:>" & Year & "<:-:>" & Format
