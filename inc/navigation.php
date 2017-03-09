@@ -24,8 +24,7 @@
         	<div id="subnav-wrapper-gcollection">
             	<div id="sub-navigation">
                     <ul id="subnav-gcollection">
-                    	<li><a href="/general/recent.php" title="recent acquisitions" id="subnav-recent">recent acquisitions</a></li>
-                        <li><a href="/general/audio.php" title="by content">by content</a>
+                         <li><a href="/general/audio.php" title="by content">by content</a>
                         	<ul id="subnav-content">
                             	<li><a href="/general/audio.php" title="audio/sound art" id="subnav-audio">audio/sound art</a></li>
                                 <li><a href="/general/bio.php" title="bio/eco art" id="subnav-bio">bio/eco art</a></li>
