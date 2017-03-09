@@ -9,14 +9,14 @@ function goldsen_recent() {
 	echo "<h2>No recent acquistions.</h2>\r";
 	}
 
-function goldsen_media($media) {
+function old_fm_goldsen_media($media) {
 	// media types
 	//goldsen_show_result_set("Media", $media);
 	$coll = goldsen_load_collection("Media", $media);
 	goldsen_show_content($coll);
 }
 
-function goldsen_content($content) {
+function old_fm_goldsen_content($content) {
 	// media types
 	//goldsen_show_result_set("Content", $content);
 	$coll = goldsen_load_collection("Content", $content);
