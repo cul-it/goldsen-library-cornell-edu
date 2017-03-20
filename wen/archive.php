@@ -1513,7 +1513,7 @@ a:hover{
                                                             <span class="DVD">1993</span>
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=6">栗宪庭 (Li Xianting, art citic, interview)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E8%AE%BF%E9%97%AE%E6%A0%97%E5%AE%AA%E5%BA%AD+%28Tracing+The+Modern+Art+-+Interview+with+Li+Xianting%29/1_4noogeb8/64593611">栗宪庭 (Li Xianting, art citic, interview)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2217,7 +2217,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=7">张洹 (Zhang Huan)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%BC%A0%E6%B4%B9+%28Zhang+Huan%29/1_yo2jower/64593611">张洹 (Zhang Huan)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2228,7 +2228,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=8">为无名山提高一米 (Wei Wumingshan tigao yi mi)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E4%B8%BA%E6%97%A0%E5%90%8D%E5%B1%B1%E6%8F%90%E9%AB%98%E4%B8%80%E7%B1%B3+%28Wei+Wumingshan+tigao+yi+mi%29/1_rbnixlaa/64593611">为无名山提高一米 (Wei Wumingshan tigao yi mi)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2239,7 +2239,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=9">北京东村 (Beijing Dongcun)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%8C%97%E4%BA%AC%E4%B8%9C%E6%9D%91+%28Beijing+Dongcun%29/1_0peai97n/64593611">北京东村 (Beijing Dongcun)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2250,7 +2250,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=10">无题 (Wu ti)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%97%A0%E9%A2%98+%28Wu+ti+%29/1_q621h2z1/64593611">无题 (Wu ti)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2272,7 +2272,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=11">李娃克当代寿衣时装行为展 (Li Wake dangdai shouyi xingweizhan)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%9D%8E%E5%A8%83%E5%85%8B%E5%BD%93%E4%BB%A3%E5%AF%BF%E8%A1%A3%E6%97%B6%E8%A3%85%E8%A1%8C%E4%B8%BA%E5%B1%95+%28Li+Wake+dangdai+shouyi+xingweizhan%29/1_cegg0k5w/64593611">李娃克当代寿衣时装行为展 (Li Wake dangdai shouyi xingweizhan)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2415,7 +2415,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=12">塑料 (Plastics)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A1%91%E6%96%99+%28Plastics%29/1_kcaj5uha/64593611">塑料 (Plastics)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2701,7 +2701,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=13">新艺术速成车间 - 耕种 (Xin yishu sucheng chejian - geng zhong)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%96%B0%E8%89%BA%E6%9C%AF%E9%80%9F%E6%88%90%E8%BD%A6%E9%97%B4+-+%E8%80%95%E7%A7%8D+%28Xin+yishu+sucheng+chejian+-+geng+zhong%29/1_s6mkpfio/64593611">新艺术速成车间 - 耕种 (Xin yishu sucheng chejian - geng zhong)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2866,7 +2866,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=14">后感性 (Hou ganxing)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%90%8E%E6%84%9F%E6%80%A7+%28Hou+ganxing%29/1_gn09vavs/64593611">后感性 (Hou ganxing)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2910,7 +2910,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=15">后感性 - 媒体艺术 (Hou ganxing - Media art)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%90%8E%E6%84%9F%E6%80%A7+-+%E5%AA%92%E4%BD%93%E8%89%BA%E6%9C%AF+%28Hou+ganxing+-+Media+art%29/1_oi251lon/64593611">后感性 - 媒体艺术 (Hou ganxing - Media art)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2932,7 +2932,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=16">后感性 (Hou ganxing)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%90%8E%E6%84%9F%E6%80%A7+%28Hou+ganxing%29/1_wszioe1l/64593611">后感性 (Hou ganxing)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2987,7 +2987,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=17">宋东到此面壁 (Song Dong dao ci mian bi)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%AE%8B%E4%B8%9C%E5%88%B0%E6%AD%A4%E9%9D%A2%E5%A3%81+%28Song+Dong+dao+ci+mian+bi%29/1_scnrz8wf/64593611">宋东到此面壁 (Song Dong dao ci mian bi)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -3229,7 +3229,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=18">太阳 100 (Taiyang 100)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_std8t9if/64593611">太阳 100 (Taiyang 100)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -3339,7 +3339,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=19">太阳 100 (Taiyang 100)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_to0wj7jh/64593611">太阳 100 (Taiyang 100)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -3361,7 +3361,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=20">太阳 100 (Taiyang 100)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_80c8h58z/64593611">太阳 100 (Taiyang 100)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -3416,7 +3416,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=21">太阳 100 (Taiyang 100)</a></span>
+                                                            <span class="DVD"><a href="ahttps://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_9lchc2a6/64593611">太阳 100 (Taiyang 100)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5088,7 +5088,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=22">西藏艺术家访问 (Xizang yishujia fangwen)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_9lchc2a6/64593611">西藏艺术家访问 (Xizang yishujia fangwen)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5143,7 +5143,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=23">西藏喇嘛庙壁画与石刻 (Xizang Lama miao bihua yu shike)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E8%A5%BF%E8%97%8F%E5%96%87%E5%98%9B%E5%BA%99%E5%A3%81%E7%94%BB%E4%B8%8E%E7%9F%B3%E5%88%BB+%28Xizang+Lama+miao+bihua+yu+shike%29/1_t3x28ubn/64593611">西藏喇嘛庙壁画与石刻 (Xizang Lama miao bihua yu shike)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5253,7 +5253,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=24">China Action (English subtitle)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8A%A8+-+%E5%85%AB%E5%8D%81%E5%B9%B4%E4%BB%A3%E5%88%B0%E4%B9%9D%E5%8D%81%E5%B9%B4%E4%BB%A3%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%89%BA%E6%9C%AF+%28Zhongguo+xingdong+-+bashi+niandai+dao+jiushi+niandai+de+xingwei+yishu%29/1_7r53dfjo/64593611">China Action (English subtitle)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5275,7 +5275,7 @@ a:hover{
                                                             <span class="DVD">late 90's</span>
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=25">前卫十年 (English)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8A%A8+-+%E5%85%AB%E5%8D%81%E5%B9%B4%E4%BB%A3%E5%88%B0%E4%B9%9D%E5%8D%81%E5%B9%B4%E4%BB%A3%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%89%BA%E6%9C%AF+%28Zhongguo+xingdong+-+bashi+niandai+dao+jiushi+niandai+de+xingwei+yishu%29/1_gcvyl00e/64593611">前卫十年 (English)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5418,7 +5418,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=26">新闻简报　－　2000年6月30日翁奋亲切会见海口市部分青年代表并合影留念 (Xinwen jianbao - 2000 nian 6 yue 30 ri Wen Fen qinqie hui jian Haikou shi bufen qingnian daibiao bing heying liunian)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%96%B0%E9%97%BB%E7%AE%80%E6%8A%A5%E3%80%80%EF%BC%8D%E3%80%802000%E5%B9%B46%E6%9C%8830%E6%97%A5%E7%BF%81%E5%A5%8B%E4%BA%B2%E5%88%87%E4%BC%9A%E8%A7%81%E6%B5%B7%E5%8F%A3%E5%B8%82%E9%83%A8%E5%88%86%E9%9D%92%E5%B9%B4%E4%BB%A3%E8%A1%A8%E5%B9%B6%E5%90%88%E5%BD%B1%E7%95%99%E5%BF%B5++%28Xinwen+jianbao+-+2000+nian+6+yue+30+ri+Wen+Fen+qinqie+hui+jian+Haikou+shi+bufen+qingnian+daibiao+bing+heying+liunian+%29/1_zxalxun7/64593611">新闻简报　－　2000年6月30日翁奋亲切会见海口市部分青年代表并合影留念 (Xinwen jianbao - 2000 nian 6 yue 30 ri Wen Fen qinqie hui jian Haikou shi bufen qingnian daibiao bing heying liunian)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5429,7 +5429,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=27">水之惑 (Shui zhi huo)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%B0%B4%E4%B9%8B%E6%83%91+%28Shui+zhi+huo%29/1_1gdn39fu/64593611">水之惑 (Shui zhi huo)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5473,7 +5473,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=28">都市人格 - 都市文化与当代艺术研讨会 (Dushi renge - dushi wenhua yu dangdai yishu yantaohui)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E9%83%BD%E5%B8%82%E4%BA%BA%E6%A0%BC+-+%E9%83%BD%E5%B8%82%E6%96%87%E5%8C%96%E4%B8%8E%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A+%28Dushi+renge+-+dushi+wenhua+yu+dangdai+yishu+yantaohui%29/1_fnfo1qwt/64593611">都市人格 - 都市文化与当代艺术研讨会 (Dushi renge - dushi wenhua yu dangdai yishu yantaohui)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5528,7 +5528,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=29">扬志超作品 - 嘉峪关 (Yang Zhichao zuopin - Jiayuguan)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%89%AC%E5%BF%97%E8%B6%85%E4%BD%9C%E5%93%81+-+%E5%98%89%E5%B3%AA%E5%85%B3+%28Yang+Zhichao+zuopin+-+Jiayuguan%29/1_5z0to46h/64593611">扬志超作品 - 嘉峪关 (Yang Zhichao zuopin - Jiayuguan)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5539,7 +5539,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=30">扬志超作品 - 种草 (Yang Zhichao zuopin - zhong cao)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%89%AC%E5%BF%97%E8%B6%85%E4%BD%9C%E5%93%81+-+%E7%A7%8D%E8%8D%89+%28Yang+Zhichao+zuopin+-+zhong+cao%29/1_u0uqajzf/64593611">扬志超作品 - 种草 (Yang Zhichao zuopin - zhong cao)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5770,7 +5770,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=31">宋冬作品 - 父子 (Song Dong zuopin - fu zi)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%AE%8B%E5%86%AC%E4%BD%9C%E5%93%81+-+%E7%88%B6%E5%AD%90%E3%80%80+%28Song+Dong+zuopin+-+fu+zi%29/1_t5z6w9nw/64593611">宋冬作品 - 父子 (Song Dong zuopin - fu zi)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5814,7 +5814,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=32">宋冬作品 - 容器 (Song Dong zuopin - Rong qi)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%AE%8B%E5%86%AC%E4%BD%9C%E5%93%81+-+%E5%AE%B9%E5%99%A8+%28Song+Dong+zuopin+-+Rong+qi%29/1_w0drz9yq/64593611">宋冬作品 - 容器 (Song Dong zuopin - Rong qi)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -5990,7 +5990,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="archive/video/video.php?f=33">爬行者 (Paxingzhe)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E7%88%AC%E8%A1%8C%E8%80%85%E3%80%80+%28Paxingzhe+%29/1_rnrci6vz/64593611">爬行者 (Paxingzhe)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
