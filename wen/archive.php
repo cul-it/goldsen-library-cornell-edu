@@ -3416,7 +3416,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="ahttps://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_9lchc2a6/64593611">太阳 100 (Taiyang 100)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_9lchc2a6/64593611">太阳 100 (Taiyang 100)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
