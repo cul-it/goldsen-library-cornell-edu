@@ -5088,7 +5088,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td colspan="2">
-                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A4%AA%E9%98%B3+100+%28Taiyang+100%29/1_9lchc2a6/64593611">西藏艺术家访问 (Xizang yishujia fangwen)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E8%A5%BF%E8%97%8F%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%AE%BF%E9%97%AE+%28Xizang+yishujia+fangwen+%29/1_4vmrpxdy/64593611">西藏艺术家访问 (Xizang yishujia fangwen)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
