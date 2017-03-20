@@ -67,32 +67,32 @@
         <tr> 
           <td><font color="#000000">Yang Du 杨渡</font></td>
           <td>March 19, 2001</td>
-          <td><a href="/Wen/Interviews/Interview%20Yang%20Du.pdf" target="_blank">open</a></td>
+          <td><a href="/wen/Interviews/Interview%20Yang%20Du.pdf" target="_blank">open</a></td>
         </tr>
         <tr> 
           <td>Lin Li 林黎</td>
           <td>August 29, 2001</td>
-          <td><a href="/Wen/Interviews/Interview%20Lin%20Li.pdf" target="_blank">open</a></td>
+          <td><a href="/wen/Interviews/Interview%20Lin%20Li.pdf" target="_blank">open</a></td>
         </tr>
         <tr> 
           <td>Jin Xiaofeng 金小风</td>
           <td>1999 (?)</td>
-          <td><a href="/Wen/Interviews/Interview%20Xiaofeng.pdf" target="_blank">open</a></td>
+          <td><a href="/wen/Interviews/Interview%20Xiaofeng.pdf" target="_blank">open</a></td>
         </tr>
         <tr> 
           <td>Wang Yin 王寅</td>
           <td>Feb. 16 + 19, 2004</td>
-          <td><a href="/Wen/Interviews/Interview%20Wang%20Yin.pdf" target="_blank">open</a></td>
+          <td><a href="/wen/Interviews/Interview%20Wang%20Yin.pdf" target="_blank">open</a></td>
         </tr>
         <tr> 
           <td>Jin Feng 金峰</td>
           <td>July 26, 1999</td>
-          <td><a href="/Wen/Interviews/Interview%20Jin%20Feng.pdf" target="_blank">open</a></td>
+          <td><a href="/wen/Interviews/Interview%20Jin%20Feng.pdf" target="_blank">open</a></td>
         </tr>
         <tr> 
           <td>Zhang Xiangyu 长翔宇</td>
           <td>2001</td>
-          <td><a href="/Wen/Interviews/Interview%20west%208.pdf" target="_blank">open</a></td>
+          <td><a href="/wen/Interviews/Interview%20west%208.pdf" target="_blank">open</a></td>
         </tr>
         <tr> 
           <td colspan="3"><font color="#000000">(<font color="#FF0000">Note:</font> 
