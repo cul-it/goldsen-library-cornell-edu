@@ -1,0 +1,23 @@
+/****************************************
+ * Cornell University
+ * Web Template with 45px Banner
+ * IE5/Win Hacks
+ ****************************************/
+ 
+/* 
+	The purpose of this stylesheet is to provide style rules to 
+	Internet Explorer v5.x on Windows only. This browser's support 
+	for CSS is somewhat limited, and it is often necessary to provide
+	it with alternate rules to acheive the same results as other 
+	browsers.
+*/
+
+/* IE5/Win does not support margin: 0 auto for centering */
+#cu-identity {
+	text-align: center;
+	}
+#cu-logo {
+	text-align: left;
+	}
+	
+	

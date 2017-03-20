@@ -1,0 +1,234 @@
+/****************************************
+ * Cornell University Library - David Bathrick Faculty Grant
+ * Modified two-line web template
+ * Authored by Melissa Kuo, DLIT, February 2006
+ * Main CSS Rules
+ ****************************************/
+ 
+/****************************************
+ * General Formatting
+ ****************************************/
+body {margin: 0; padding: 0; font-size: 63.125%; color: #000;font-family: verdana, arial, sans-serif; background: #fff;}
+ 
+/****************************************
+ * Cornell Identity
+ ****************************************/
+#cu-identity {height: 75px; background: #000; font-family: verdana, arial, sans-serif;}
+#cu-logo {position: absolute;top: 0;left: 50%;margin-left: -370px;width: 780px;height: 75px;background: url(../images/layout/library_2line_blk.gif) no-repeat -8px -1px;}	
+#cu-logo a {position: absolute;display: block;border: none;/* hide text link */text-indent: -1000em; }	
+#insignia-link {width: 68px;height: 75px;}
+#unit-signature-links a {left: 68px;width: 185px;}
+#cornell-link {height: 38px;}
+#unit-link {top: 38px;height: 37px;}	
+#cu-logo img {display: none;}	 
+
+/* Search Form */
+#search-form {position: absolute;top: 18px;right: 50%;margin-right: -385px;}
+#search-form form {margin: 0;padding: 0;text-align: right;}
+#search-form label {color: #fff;}
+#search-form-query {padding: 3px;width: 145px;border: none;font-family: verdana, arial, helvetica, sans-serif;font-size: 1.1em;font-weight: bold;color: #fff;background: #4c4c4c url(../images/layout/header_search.gif) no-repeat top left;vertical-align: middle;}	
+#search-form-submit {padding: 0px 2px 3px 2px;;border-top: 1px solid #8c8c8c;border-left: 1px solid #8c8c8c;border-right: 1px solid #333333;border-bottom: 1px solid #333333;font-family: verdana, arial, helvetica, sans-serif;font-size: 1.0em;font-weight: bold;color: #fff;background: #4c4c4c;vertical-align: middle;}
+#search-filters {margin: 5px 0 0 0;}
+#search-filters input {vertical-align: middle;margin: 0;}
+#search-filters label {vertical-align: middle;margin: 0 10px 0 0;}	
+#search-form a {color: #fff;border-bottom: 1px solid #666;}
+#search-form a:hover {border-bottom: 1px solid #fff;}
+ 
+/****************************************
+ * Header
+ ****************************************/
+ 
+/* Site Identity */
+#identity {width: 100%; padding: 20px 0 0 0; background: #fff;}
+#identity h1 {margin: 0 auto; width: 900px; color: #fff; font-family: georgia, "times new roman", times, serif; font-size: 2.4em; font-weight: normal; padding: 0 0 0 0; border-bottom: 5px solid #003399; background-color:#fff;}
+#banner {margin: 0 auto; width: 900px; color: #fff; font-family: georgia, "times new roman", times, serif; font-size: 2.4em; font-weight: normal; padding: 0;}
+
+#header {float: left;width: 100%;background: #fff;}
+
+/****************************************
+ * Content Sections
+ ****************************************/
+
+#wrap {float: left;width: 100%; padding: 0; margin: 3px 0 0 0;}
+#content {margin: 0 auto; width: 900px; background: #f0eee4; }
+#main {float: right; width: 100%; padding: 0; margin: 0; background: #f0eee4; border-left:1px solid #000;}
+
+#main-content {float: left; width: 680px; border-left: 1px solid #333; padding: 0;}
+#main-image {margin: 0; padding: 0 4px;}
+#main-text {padding: 20px; width: 420px;}
+#main-text-650 {padding: 20px; width: 650px;} /* spans 2 columns for wider main content area */
+ 
+ /* third column */
+#column3 {float: right; width: 200px; color: #666; padding: 20px 0 30px 0; font-family: verdana, arial, sans-serif;}
+.secondary-section {margin: 0 0 20px 0;padding: 0 10px;}		
+#column3 h2 {margin: 0 0 10px 0;font-size: 1.1em;font-weight: bold;}	
+#column3 p {margin: 0 0 10px 0;font-size: 1.1em;line-height: 1.5em;}	
+#column3 ul {margin: 0 0 10px 0;font-size: 1.1em;;}	
+#column3 ul li {padding-left: 12px;background-position: 0 0.65em;}
+
+/****************************************
+ * Navigation
+ ****************************************/
+	
+/* Main Navigation (left column) */
+#navigation {float: left; width: 200px; padding: 0 0 30px 0; font-family: verdana, arial, sans-serif; border-top:1px solid #000;}
+#navigation ul {margin: 0; padding: 0; font-size: 1.1em;}
+#navigation li {float: left; margin: 0; padding: 0; width: 100%;background: none;}	
+#navigation a {display: block; padding: 8px 5px; width: 190px; border-bottom: 1px solid #333; text-transform: uppercase; letter-spacing: 0.1em;}
+#navigation a:hover {background: #fff;}	
+		
+/* Section Navigation (right column) */
+#section-navigation {float: right; width: 200px; padding: 20px 0 30px 0; font-family: verdana, arial, sans-serif}
+#section-navigation ul {margin: 0; padding: 0; font-size: 1.1em; padding-bottom: 10px;}
+#section-navigation li {}	
+#section-navigation a {color: #fff; border-bottom: 1px solid #fff;}
+#section-navigation a:hover {background: #9c5311; border-bottom: #fff;}
+
+/****************************************
+ * Text Styles
+ ****************************************/
+ 
+/* Headlines */
+h2 {margin: 0 0 15px 0; font-size: 2.0em; font-weight: bold; color: #000;background: #dad8cf; padding: 3px; font-weight: normal;}	
+h3 {clear: both;margin: 0 0 15px 0;font-size: 1.3em;line-height: 1.4em;font-weight: bold;}	
+h4 {margin: 15px 0 3px 0;font-size: 1.2em;font-weight: bold;}
+	
+/* Text */
+p {margin: 0 0 15px 0; font-size: 1.3em; line-height: 1.8em;}	
+blockquote {margin: 0 30px;}
+	
+/* captions */	
+.caption {font-size: 1.0em; line-height: 1.2em; color: #666; font-family: verdana, arial, sans-serif;}
+	
+/* Lists */	
+ul, ol {margin: 0 0 15px 0;padding: 0;font-size: 1.3em;line-height: 1.4em;}
+ul ul, ul ol, ol ol, ol ul {font-size: 1.0em;}	
+ul li {margin: 5px 0;padding: 0 0 0 30px;list-style: none; background: url(../images/layout/bullet.gif) no-repeat 18px 0.65em;} 
+ol li {margin: 5px 0 5px 30px;}
+dl {margin: 0 0 15px 0; line-height: 1.4em;}	
+dt {margin: 0 0 3px 0; font-size: 1.2em; font-weight: bold;}
+dd {margin: 0 0 15px 0;font-size: 1.1em; line-height: 1.4em;}
+	
+/* Links */
+a {color: #820000; border-bottom: 1px solid #ccc; text-decoration: none;}	
+a:visited {color: #666; border-bottom: 1px solid #ccc;}
+a:hover {color: #c00; border-color: #c00;}	
+a:active {color: #c00; border-color: #c00;}
+	
+/* Secondary text */
+#secondary {float: left; width: 200px; color: #666; padding: 30px 0;}
+.secondary-section {margin: 0 0 30px 0;padding: 0 15px;}		
+#secondary h2 {margin: 0 0 10px 0;font-size: 1.1em;font-weight: bold;}	
+#secondary p {margin: 0 0 10px 0;font-size: 1.1em;line-height: 1.5em;}	
+#secondary ul {margin: 0 0 10px 0;font-size: 1.1em;}	
+#secondary ul li {padding-left: 12px;background-position: 0 0.65em;}
+ 
+/****************************************
+ * Images
+ ****************************************/
+
+img {border: 0;}
+	
+/* Secondary photos */
+.secondary-photo {margin: 0; text-align: center;}
+#secondary .secondary-photo .caption {margin: 10px 15px 0 15px;}	
+
+/****************************************
+ * Tables
+ ****************************************/
+
+table, tr, th, td {margin: 0;padding: 0;border: 0;font-size: 1em;}
+table {margin: 5px 0;border-bottom: 1px solid #e7e7e7;caption-side: bottom; width: 95%;}	
+th {padding: 0 10px 5px 10px;font-weight: normal;text-align: left;color: #888;}	
+td, tbody th {padding: 5px 10px;border-top: 1px solid #e7e7e7;font-size: 1.1em;line-height: 1.5em;vertical-align: top;}
+tbody th {font-weight: bold;color: #222;text-align: right;}	
+.row1, .row1 td, .row1 th {background: #fff;}	
+.row2, .row2 td, .row2 th {background: #fafaf7;}	
+tfoot td {font-weight: bold;}
+
+/****************************************
+ * Footer
+ ****************************************/
+ 
+#footer {float: left; width: 100%; font-family: verdana, arial, sans-serif;}
+#footer-content {margin: 0 auto; margin-top: 10px; padding: 15px 10px 5px 10px; width: 880px; font-size: 1.0em; color: #ccc; background: #555;}
+#footer-content p {font-size: 1.0em;}	
+/* links */
+#footer a {border-bottom: 1px solid #999;color: #fff;}
+ 
+/****************************************
+ * Miscellaneous
+ ****************************************/
+
+#skipnav {position: absolute;top: -1000em;left: -1000em;}
+hr {display: none;}
+ 
+/****************************************
+ * Melissa's tarting up
+ ****************************************/
+ 
+#floatright {float: right; margin: 0; padding: 0 0 10px 20px;clear: right;text-align: center; width: 180px;}
+#floatright a {border: none;}
+#floatright img {border: 1px solid #666;margin-bottom: 3px;}
+#floatright p {line-height: 1.0;}
+.no-border {border: none;}
+.no-border:hover {border: none;}
+.no-border:visited {border: none;}
+.no-border:active {border: none;}
+.no-border:hover:visited {border: none;}
+.next {font-weight: bold;}
+.image-border {border: 1px solid #666;}
+.bold {font-weight: bold;}
+.italic {font-style: italic;}
+.prev-next {padding: 0 0 0 200px; color: #666; text-align: right;}
+
+/* rounded corner box - Additional Info */
+#info-wrapper {width: 200px;background-color: #820000;background-image: url(../images/rounded_top200.gif);background-repeat: no-repeat;}
+#info-content {padding: 5px;background: url(../images/rounded_bottom200.gif) no-repeat bottom left; color: #fff;}
+#info-content h5 {font-family: verdana, arial, sans-serif; font-size: 1.2em; font-weight: bold; color: #fff; margin: 0 0 10px 0; padding: 0; border-bottom: 1px dotted #ccc; line-height: 1.5em;}
+#info-content a {color: #fff; border-bottom: 1px solid #ccc;}
+#info-content a:hover {border-bottom: 1px solid #fff;}
+#info-content .no-border {border: none;}
+#info-content .no-border:hover {border: none;}
+#info-content .no-border:visited {border: none;}
+#info-content .no-border:active {border: none;}
+#info-content .no-border:hover:visited {border: none;}
+
+/* breadcrumbs */
+#breadcrumbs {margin: 0 0 15px 0; font-size: 1.0em; padding: 4px; border-bottom: 1px solid #fff; color: #555;}
+
+/* video page - LAYOUT */
+#video-content {padding: 10px; background: #faf9f5;}
+#video-content.large {padding: 0; background: #faf9f5;}
+#flash-content {background: #333;}
+#video-title h5 {margin: 0 0 5px 0; padding: 0; font-size: 1.3em; font-weight: bold;}
+#video-title p {font-size: 1.1em; margin: 2px 0; padding: 0; line-height: 1.2em;}
+#video-title p.info {font-size: 1.1em; margin: 1px 0; padding: 1px; line-height: 1.5em; border-bottom:1px solid #ccc;}
+#column1 {float: left; width: 270px; margin: 0;}
+#column2 {float: right; width: 350px; margin-bottom: 15px; text-align: right;}
+#column-solo { width: 270px; margin: 0;}
+
+/* video page - TABBED NAVIGATION */
+#video-tabs ul {padding: 3px 0; margin: 0 0 -1px -2px; font-size: 1.3em;}
+#video-tabs ul li {list-style: none; margin: 0; padding: 0; display: inline; background: none; width: 150px;}
+#video-tabs a {padding: 3px 0.5em; margin-left: 3px; background: #999 url(../images/rounded_top150.gif) top left no-repeat; text-decoration: none; color: #fff; border: none; width: 150px;}
+#video-tabs a.tab-on {background: #faf9f5 url(../images/rounded_top150.gif) top left no-repeat; color: #820000; border: none;}
+#video-tabs a:hover, #video-tabs a:visited:hover {color: #fff; background: #820000 url(../images/rounded_top150.gif) top left no-repeat; border: none;}
+
+/* video page - CONTROLS - rounded corners */
+#controls-wrapper {width: 250px; background: #e2e2e2 url(../images/rounded_top250.gif);background-repeat: no-repeat; padding: 0; margin-top: 20px;}
+#controls-content {padding: 5px 10px 20px 5px; background: url(../images/rounded_bottom250.gif) no-repeat bottom left; margin: 0;}
+#controls-content p {font-size: 1.1em; margin: 2px 0; padding: 0; line-height: 1.2em;}
+#controls-content ul {font-size: 1.1em;}
+#controls-content h4 {font-size: 1.1em; font-weight: bold; letter-spacing: 0.1em; text-transform: uppercase; margin-top: 25px; padding-top: 25px; border-top: 1px dotted #999;}
+#controls-content li.list-header {font-weight: bold; background: none; margin-top: 10px; letter-spacing: 0.1em; text-transform: uppercase;}
+
+#metadata {clear: both;}
+.metadata-content {padding: 10px;}
+/*#metadata .column {float: left; width: 340px; margin-right: 20px;}*/
+
+/* language toggle */
+#language {text-align: center;}
+#language h6 {font-size: 1.1em; font-weight: bold; margin: 0; padding: 4px;}
+#language a {border: none; display: inline; letter-spacing: 0em;}
+#language a:hover {background: none;}

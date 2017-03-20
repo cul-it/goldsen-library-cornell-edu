@@ -1,0 +1,35 @@
+﻿<?php
+$film[1] = array(filmID => '1', eng => 'Solo exhibition of Wen Pulin', chi =>'温普林艺术展');
+$film[2] = array(filmID => '2', eng => 'China/Avant-Grade Exhibition', chi =>'中国现代艺术展');
+$film[3] = array(filmID => '3', eng => 'China/Avant-Grade Exhibition', chi =>'中国现代艺术展');
+$film[4] = array(filmID => '4', eng => 'China/Avant-Grade Exhibition', chi =>'中国现代艺术展');
+$film[5] = array(filmID => '5', eng => 'Great Earthquake - Xu Bing Tian Shu', chi =>'大地震 - 徐冰天书');
+$film[6] = array(filmID => '6', eng => 'Tracing The Modern Art - Interview with Li Xianting', chi =>'访问栗宪庭');
+$film[7] = array(filmID => '7', eng => 'Zhang Huan', chi =>'张洹');
+$film[8] = array(filmID => '8', eng => 'Wei Wumingshan tigao yi mi', chi =>'为无名山提高一米');
+$film[9] = array(filmID => '9', eng => 'Beijing Dongcun', chi =>'北京东村');
+$film[10] = array(filmID => '10', eng => 'Wu ti ', chi =>'无题');
+$film[11] = array(filmID => '11', eng => 'Li Wake dangdai shouyi xingweizhan', chi =>'李娃克当代寿衣时装行为展');
+$film[12] = array(filmID => '12', eng => 'Plastics', chi =>'塑料');
+$film[13] = array(filmID => '13', eng => 'Xin yishu sucheng chejian - geng zhong', chi =>'新艺术速成车间 - 耕种');
+$film[14] = array(filmID => '14', eng => 'Hou ganxing', chi =>'后感性');
+$film[15] = array(filmID => '15', eng => 'Hou ganxing - Media art', chi =>'后感性 - 媒体艺术');
+$film[16] = array(filmID => '16', eng => 'Hou ganxing', chi =>'后感性');
+$film[17] = array(filmID => '17', eng => 'Song Dong dao ci mian bi', chi =>'宋东到此面壁');
+$film[18] = array(filmID => '18', eng => 'Taiyang 100', chi =>'太阳 100');
+$film[19] = array(filmID => '19', eng => 'Taiyang 100', chi =>'太阳 100');
+$film[20] = array(filmID => '20', eng => 'Taiyang 100', chi =>'太阳 100');
+$film[21] = array(filmID => '21', eng => 'Taiyang 100', chi =>'太阳 100');
+$film[22] = array(filmID => '22', eng => 'Xizang yishujia fangwen ', chi =>'西藏艺术家访问');
+$film[23] = array(filmID => '23', eng => 'Xizang Lama miao bihua yu shike', chi =>'西藏喇嘛庙壁画与石刻');
+$film[24] = array(filmID => '24', eng => 'Zhongguo xingdong - bashi niandai dao jiushi niandai de xingwei yishu', chi =>'中国行动 - 八十年代到九十年代的行为艺术');
+$film[25] = array(filmID => '25', eng => 'Zhongguo xingdong - bashi niandai dao jiushi niandai de xingwei yishu', chi =>'中国行动 - 八十年代到九十年代的行为艺术');
+$film[26] = array(filmID => '26', eng => 'Xinwen jianbao - 2000 nian 6 yue 30 ri Wen Fen qinqie hui jian Haikou shi bufen qingnian daibiao bing heying liunian ', chi =>'新闻简报　－　2000年6月30日翁奋亲切会见海口市部分青年代表并合影留念 ');
+$film[27] = array(filmID => '27', eng => 'Shui zhi huo', chi =>'水之惑');
+$film[28] = array(filmID => '28', eng => 'Dushi renge - dushi wenhua yu dangdai yishu yantaohui', chi =>'都市人格 - 都市文化与当代艺术研讨会');
+$film[29] = array(filmID => '29', eng => 'Yang Zhichao zuopin - Jiayuguan', chi =>'扬志超作品 - 嘉峪关');
+$film[30] = array(filmID => '30', eng => 'Yang Zhichao zuopin - zhong cao', chi =>'扬志超作品 - 种草');
+$film[31] = array(filmID => '31', eng => 'Song Dong zuopin - fu zi', chi =>'宋冬作品 - 父子　');
+$film[32] = array(filmID => '32', eng => 'Song Dong zuopin - Rong qi', chi =>'宋冬作品 - 容器');
+$film[33] = array(filmID => '33', eng => 'Paxingzhe ', chi =>'爬行者　');
+?>

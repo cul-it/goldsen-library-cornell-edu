@@ -1,0 +1,128 @@
+/****************************************
+ * Cornell University
+ * Web Template with 45px Banner
+ * Main CSS Rules
+ ****************************************/
+ 
+/*
+	The purpose of this stylesheet is to control the layout and formatting
+	of pages throughout the website. Place rules that apply to all pages and 
+	all web browsers in this stylesheet. To provide Internet Explorer v5.x 
+	on Windows with special rules, see hacks/ie5win.css. To provide Internet 
+	Explorer v5.x on Macintosh with special rules, see hacks/ie5mac.css.
+*/
+ 
+/****************************************
+ * General Formatting
+ ****************************************/
+ 
+body {
+ 	margin: 0;
+	padding: 0;
+ 	}
+ 
+/****************************************
+ * Cornell Identity
+ ****************************************/
+/* 
+	The following set of rules controls the appearance of the topmost 
+	banner on the page, including height, background color, and text color.
+	The Cornell identity banner should appear on every page of the site.
+	
+	The version of the logo that appears in the XHTML code is hidden from 
+	browsers that can read this stylesheet, and it is replaced by a version
+	of the logo that corresponds to the background color of the banner. 
+	This logo is placed in the background of two elements below (rather than
+	one) to prevent flickering when moused over by IE/Win users who have 
+	disabled the browser cache.
+	
+	The "Search Cornell" link is aligned with the right edge of the page.
+*/
+#cu-identity {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 63.125%;		/* translate 1.0em to 10px, 1.5em to 15px, etc. */
+	color: #222;
+	height: 45px;
+	background: #fff;
+	}
+
+
+	
+#cu-logo a {
+	border: none;
+	display: block;
+	width: 180px;
+	height: 45px;
+	background: url(../images/layout/cu_logo.gif) no-repeat top left;
+	}
+	
+#cu-logo img {
+	display: none;
+	}
+	
+#cu-search {
+	position: absolute;
+	top: 11px; 
+	right: 50%;
+	width: 200px;
+	margin-right: -385px;
+	}
+	
+#cu-search a {
+	float: right;
+	padding: 5px 15px;
+	font-size: 1.1em;
+	color: #b31b1b;
+	text-decoration: none;
+	border: none;
+	}
+	
+#cu-search a:hover {
+	color: #f00;
+	background: #eee;
+	}
+ 
+/****************************************
+ * Miscellaneous
+ ****************************************/
+
+/* 
+	Hide "skip to content" link from general users. 
+	Do not use display: none, as that will also hide it from some screen readers.
+*/
+#skipnav {
+	position: absolute;
+	top: -1000em;
+	left: -1000em;
+	}
+	
+/* 
+	To display the "skip to content" link to general users, uncomment
+	the following rules (this usually is not necessary).
+#skipnav {
+	position: static;
+	height: 25px;
+	line-height: 25px;
+	background: #fff;
+	border-bottom: 1px solid #b3b3aa;
+	}
+#skipnav a {
+	display: block;
+	margin: 0 auto;
+	width: 740px;
+	border: none;
+	}
+#cu-search {
+	top: 36px;
+	}
+*/
+	
+/* 
+	Hide horizontal rules (hr) that are found throughout the site.
+	The rules are semantic separations of content, and they are useful for 
+	browsers that cannot utilize the stylesheet.
+*/	
+hr {
+	display: none;
+	}
+ 
