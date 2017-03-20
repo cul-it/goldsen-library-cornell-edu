@@ -270,7 +270,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=1">2. 温普林个人艺术展 (The solo exhibition of Wen Pulin)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E6%B8%A9%E6%99%AE%E6%9E%97%E8%89%BA%E6%9C%AF%E5%B1%95+%28Solo+exhibition+of+Wen+Pulin%29/1_ix0gkrya/64593611">2. 温普林个人艺术展 (The solo exhibition of Wen Pulin)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -644,7 +644,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=2">1. 开幕式</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF%E5%B1%95+%28China+Avant-Grade+Exhibition%29/1_w91aycn6/64593611">1. 开幕式</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -655,7 +655,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=3">2. 'Äú枪击'Äù</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF%E5%B1%95+%28China+Avant-Grade+Exhibition%29/1_fjjl24hl/64593611">2. 'Äú枪击'Äù</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -666,7 +666,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=4">3. 大地震</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF%E5%B1%95+%28China+Avant-Grade+Exhibition%29/1_dfvmeygz/64593611">3. 大地震</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -1238,7 +1238,7 @@ a:hover{
                                                             
                                                         </td>
                                                         <td>
-                                                            <span class="DVD"><a href="archive/video/video.php?f=5">4. 大地震 - 徐冰天书 (Great Earthquake - Xu Bing Tian Shu)</a></span>
+                                                            <span class="DVD"><a href="https://media.library.cornell.edu/media/%E5%A4%A7%E5%9C%B0%E9%9C%87+-+%E5%BE%90%E5%86%B0%E5%A4%A9%E4%B9%A6+%28Great+Earthquake+-+Xu+Bing+Tian+Shu%29/1_qg9txs00/64593611">4. 大地震 - 徐冰天书 (Great Earthquake - Xu Bing Tian Shu)</a></span>
                                                         </td>
                                                     </tr>
                                                     <tr>
