@@ -30,7 +30,7 @@
           </button>
           <div class="collapse navbar-collapse">
             <div class="nav navbar-nav">
-              <ul class="menu nav"><li><a href="/etc/browse">Browse collection</a></li>
+              <ul class="menu nav"><li><a href="browse.html">Browse collection</a></li>
                 <li><a href="artists.html">Artists</a></li>
                 <li><a href="tools.html">Tools and Technology</a></li>
                 <li><a href="about.html">About ETC</a></li>
