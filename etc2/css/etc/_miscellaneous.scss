@@ -1,0 +1,77 @@
+// Floated images
+// -------------------------//
+.img-right {
+	margin: 0 0 20px 20px;
+	width: 240px;
+}
+.img-center {
+	margin: 20px 0;
+	text-align: center;
+}
+.img-left {
+	margin: 0 20px 20px 0;
+	width: 240px;
+}
+
+// Breadcrumbs
+// -------------------------//
+.breadcrumb {
+	background-color: white;
+	padding: 0;
+	margin-bottom: 40px;
+	li {
+		font-size: 12px;
+	}
+	a {
+		color: $mediumGray;
+	}
+	a:hover {
+		background: white;
+		color: black;
+	}
+}
+// Buttons
+// -------------------------//
+.btn-etc,
+.btn-etc:visited {
+	background: $teal;
+	border-radius: 0;
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}
+.btn-etc:hover {
+	background: black;
+	color: white;
+}
+
+// Media queries
+// -------------------------//
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm) {
+
+	// Artist list 
+	// ------------------------//
+	#columns {
+	    -moz-column-count: 3;
+	    -moz-column-gap: 20px;
+	    -webkit-column-count: 3;
+	    -webkit-column-gap: 20px;
+	    column-count: 3;
+	    column-gap: 20px;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg) {
+
+}

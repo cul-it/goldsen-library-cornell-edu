@@ -1,0 +1,139 @@
+// Top navigation
+// -------------------------//
+
+.navigation {
+	text-align: right;
+}
+.navbar {
+	margin-bottom: 0;
+	.navbar-nav {
+		margin: 25px 0 0 -25px;
+		li {
+			float: none;
+			display: inline;
+			a {
+				text-shadow: 0 0 0;
+				padding: 10px 20px;
+				margin: 0 0 10px 10px;
+				text-transform: uppercase;
+				background: $teal;
+				color: white;
+				display: inline-block;
+				text-decoration: none;
+			}
+			a:hover { 
+				background: white;
+				color: black;
+			}
+		}
+		li.active-trail {
+			a, 
+			a:hover {
+				background: $yellow;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+				color: white;
+			}
+		}
+	}
+}
+.front {
+	.navbar {
+		.nav { margin-top: 0; }
+	}
+}
+.navbar-collapse {
+	padding-right: 0;
+	border-top: 0;
+	box-shadow: none;
+}
+.navbar-toggle {
+	margin-top: -50px;
+	margin-right: 0;
+	background: white;
+	border-radius: 0;
+	color: black;
+}
+
+
+// Sidebar navigation
+// -------------------------//
+.sidebar {
+	li {
+		line-height: 1em;
+	}
+	.nav > li > a:hover {
+		color: black;
+	}
+	.nav {
+		.active {
+			a, a:hover {
+				background: $yellow;
+				color: white;
+			}
+		}
+	}
+	h2 {
+		font-size: 14px;
+		a, a:hover {
+			color: $mediumGray;
+			background: white;
+		}
+	}
+}
+// .sidebar-nav {
+// 	list-style: none;
+// 	margin-left: 0;
+// 	li { 
+// 		margin-bottom: .25em;
+// 		line-height: 1em;
+// 	}
+// 	a {
+// 		display: inline-block;
+// 		background: $paleGray;
+// 		color: #666;
+// 		padding: 15px 25px 15px 15px; }
+// 	a:hover { 
+// 		background: $lightGray;
+// 		text-decoration: none; }
+// 	li.active {
+// 		a,
+// 		a:hover { 
+// 			color: white;
+// 			background: $darkTeal; }
+// 	}
+// }
+
+// Media queries
+// -------------------------//
+
+// Extra small devices (phones, less than 768px)
+// No media query since this is the default in Bootstrap
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm) {
+	.search-collapse.collapse {
+		display: block !important;
+	}
+	.navigation {
+		text-align: left;
+		margin-top: 1em;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md) {
+	.front {
+		.navbar {
+			.navbar-nav { margin-top: 250px; }
+		}
+	}
+	.navigation {
+		margin-top: 0;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg) {
+}

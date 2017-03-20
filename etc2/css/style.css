@@ -1,0 +1,529 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  color: #555;
+  background: #333; }
+
+/* Links */
+/*------------------------------*/
+a {
+  color: #15a383;
+  text-decoration: underline; }
+
+a:hover,
+a:active {
+  color: black; }
+
+a.img-link:hover {
+  background: inherit; }
+
+/* Typography */
+/*------------------------------*/
+h2, h3, h4, h5 {
+  font-weight: 400; }
+
+h2 {
+  text-transform: uppercase;
+  color: black;
+  margin: 0 0 1em;
+  padding-bottom: 20px;
+  background: url("/etc/sites/all/themes/etc3/images/diagonal.png") repeat-x bottom; }
+
+h3 {
+  text-transform: uppercase;
+  font-size: 25px;
+  margin: 1em 0 .5em; }
+
+h4 {
+  text-transform: uppercase;
+  font-size: 20px; }
+
+p, li {
+  font-size: 16px;
+  line-height: 1.75em; }
+
+blockquote {
+  line-height: 1.8em;
+  color: #4d4e54;
+  border-color: #d6edee; }
+
+/* Images */
+/*------------------------------*/
+img {
+  max-width: 100%;
+  border: 5px solid #b3b3b5; }
+
+/* Miscellaneous */
+/*------------------------------*/
+.main-content .caption {
+  color: #4d4e54;
+  margin-top: .5em;
+  font-size: 12px;
+  text-align: center; }
+
+.emphasize {
+  font-size: 150%; }
+
+#skiptocontent a {
+  padding: 6px;
+  position: absolute;
+  top: -40px;
+  left: 0px;
+  color: white;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  border-bottom-right-radius: 8px;
+  background: transparent;
+  -webkit-transition: top 1s ease-out, background 1s linear;
+  transition: top 1s ease-out, background 1s linear;
+  z-index: 100; }
+
+/* IE8 */
+/*------------------------------*/
+.cornell-identity {
+  width: 100%;
+  background: #4d4e53;
+  height: 76px;
+  font-family: verdana, sans-serif; }
+
+.cornell-brand {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .cornell-brand {
+      float: left;
+      width: 50%; } }
+
+.cu-logo {
+  display: block;
+  background: url("/etc/sites/all/themes/etc3/images/cul-logo-gray.gif") no-repeat 0 0;
+  width: 263px;
+  height: 75px; }
+  .cu-logo a {
+    display: block;
+    border: none;
+    text-indent: -1000em;
+    text-decoration: none; }
+  .cu-logo a:hover {
+    background: inherit; }
+  .cu-logo a#insignia-link {
+    float: left;
+    width: 68px;
+    height: 75px; }
+  .cu-logo #unit-signature-links {
+    float: left; }
+  .cu-logo a#cornell-link {
+    left: 68px;
+    height: 35px; }
+  .cu-logo a#unit-link {
+    top: 38px;
+    height: 37px; }
+  .cu-logo img {
+    display: none; }
+
+.search-box {
+  text-align: right;
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .search-box {
+      float: left;
+      width: 50%; } }
+  .search-box form {
+    margin-top: 20px; }
+  .search-box .search-input {
+    background: #424244;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    color: white;
+    font-family: "Montserrat", sans-serif; }
+  .search-box button {
+    color: white; }
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .search-toggle {
+    display: none; } }
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+/* Header */
+/*------------------------------*/
+header {
+  background: #333 url("/etc/sites/all/themes/etc3/images/background/peermeryl1etc.jpg") no-repeat;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important; }
+
+.front header {
+  min-height: 220px !important; }
+
+.not-front header {
+  background: #333 url("/etc/sites/all/themes/etc3/images/background/boop3.jpg") no-repeat; }
+
+.site-title h1 a {
+  display: block;
+  width: 196px;
+  height: 204px;
+  text-indent: -9999px;
+  background: url("/etc/sites/all/themes/etc3/images/etc-logo-320.png") no-repeat; }
+
+.site-subtitle h2 {
+  font-weight: 400;
+  font-size: 1.5em;
+  color: #4d4e53;
+  text-transform: uppercase;
+  margin-top: 55px; }
+
+.secondary-brand,
+.secondary-brand:visited {
+  font-size: 16px;
+  display: inline-block;
+  background: #313236;
+  padding: 10px;
+  color: white;
+  text-decoration: none; }
+
+.secondary-brand:hover {
+  background: #e7aa01;
+  text-decoration: none; }
+
+/* Main content on sub pages */
+/*------------------------------*/
+.main-content {
+  padding: 50px 0;
+  background: white; }
+
+.main-text {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .main-text {
+      float: left;
+      width: 66.66667%; } }
+  @media (min-width: 768px) {
+    .main-text {
+      left: 33.33333%; } }
+
+.sidebar {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .sidebar {
+      float: left;
+      width: 25%; } }
+  @media (min-width: 768px) {
+    .sidebar {
+      right: 66.66667%; } }
+
+/* Home page */
+/*------------------------------*/
+.intro-text {
+  font-size: 18px;
+  background: #313236;
+  padding: 30px;
+  margin: 0 0 30px;
+  color: white; }
+  .intro-text em {
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 24px; }
+
+.video-caption {
+  margin: 20px 0; }
+
+.video-title {
+  text-transform: uppercase;
+  margin-bottom: .25em;
+  font-size: 18px; }
+
+.video-info {
+  font-size: 14px; }
+
+.video h3 {
+  margin: 0 0 .25em; }
+
+.home-primary {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .home-primary {
+      float: left;
+      width: 66.66667%; } }
+  .home-primary .block {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    background: url("/etc/sites/all/themes/etc3/images/diagonal.png") repeat-x bottom; }
+
+.home-secondary {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .home-secondary {
+      float: left;
+      width: 33.33333%; } }
+  .home-secondary .block {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    background: url("/etc/sites/all/themes/etc3/images/diagonal.png") repeat-x bottom; }
+    .home-secondary .block p {
+      font-size: 14px; }
+    .home-secondary .block img {
+      margin-bottom: .5em; }
+
+/* Footer */
+/*------------------------------*/
+footer {
+  margin: 20px 0;
+  color: #666; }
+  footer .container {
+    background: #313236;
+    padding: 30px 0; }
+  footer .row {
+    margin-left: 0;
+    margin-right: 0; }
+  footer .nav {
+    list-style: none;
+    margin: 0 0 1em;
+    padding-left: 0; }
+    footer .nav li {
+      display: inline-block;
+      font-size: 14px;
+      border-left: 1px solid #4d4e54;
+      padding: 0 5px 0 10px; }
+    footer .nav li:first-child {
+      border-left: none;
+      padding-left: 0; }
+    footer .nav li.active {
+      color: white; }
+      footer .nav li.active a {
+        color: white; }
+    footer .nav a {
+      padding: 0; }
+    footer .nav a:hover,
+    footer .nav a:focus {
+      background: inherit;
+      color: white;
+      text-decoration: underline; }
+  footer a {
+    color: #b3b3b5; }
+  footer a:hover {
+    color: white; }
+  footer p {
+    font-size: 14px; }
+  footer img {
+    border: 0; }
+
+.footer-primary {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .footer-primary {
+      float: left;
+      width: 75%; } }
+
+.footer-secondary {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .footer-secondary {
+      float: left;
+      width: 25%; } }
+
+/* Sidebar images */
+/*------------------------------*/
+.sidebar-image {
+  clear: both;
+  text-align: right;
+  margin: 0 0 40px; }
+  .sidebar-image img {
+    border-bottom: 5px solid #a52615; }
+
+/* Artist page */
+/*------------------------------*/
+.group-list {
+  -moz-column-gap: 20;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 20;
+  column-count: 3;
+  column-gap: 20; }
+
+.main-content header {
+  background-image: none;
+  background-color: inherit;
+  padding: 0; }
+.main-content footer {
+  margin: 0;
+  background-color: inherit; }
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  header {
+    padding: 0 0 25px; }
+
+  .site-title h1 a {
+    width: 421px;
+    height: 111px;
+    background: url("/etc/sites/all/themes/etc3/images/etc-logo.png") no-repeat; }
+
+  .secondary-brand,
+  .secondary-brand:visited {
+    font-size: 18px; }
+
+  .footer-secondary {
+    text-align: right; }
+
+  footer .row {
+    margin-left: -15px;
+    margin-right: -15px; } }
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+.navigation {
+  text-align: right; }
+
+.navbar {
+  margin-bottom: 0; }
+  .navbar .navbar-nav {
+    margin: 25px 0 0 -25px; }
+    .navbar .navbar-nav li {
+      float: none;
+      display: inline; }
+      .navbar .navbar-nav li a {
+        text-shadow: 0 0 0;
+        padding: 10px 20px;
+        margin: 0 0 10px 10px;
+        text-transform: uppercase;
+        background: #15a383;
+        color: white;
+        display: inline-block;
+        text-decoration: none; }
+      .navbar .navbar-nav li a:hover {
+        background: white;
+        color: black; }
+    .navbar .navbar-nav li.active-trail a,
+    .navbar .navbar-nav li.active-trail a:hover {
+      background: #e7aa01;
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+      color: white; }
+
+.front .navbar .nav {
+  margin-top: 0; }
+
+.navbar-collapse {
+  padding-right: 0;
+  border-top: 0;
+  box-shadow: none; }
+
+.navbar-toggle {
+  margin-top: -50px;
+  margin-right: 0;
+  background: white;
+  border-radius: 0;
+  color: black; }
+
+.sidebar li {
+  line-height: 1em; }
+.sidebar .nav > li > a:hover {
+  color: black; }
+.sidebar .nav .active a, .sidebar .nav .active a:hover {
+  background: #e7aa01;
+  color: white; }
+.sidebar h2 {
+  font-size: 14px; }
+  .sidebar h2 a, .sidebar h2 a:hover {
+    color: #4d4e54;
+    background: white; }
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .search-collapse.collapse {
+    display: block !important; }
+
+  .navigation {
+    text-align: left;
+    margin-top: 1em; } }
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .front .navbar .navbar-nav {
+    margin-top: 250px; }
+
+  .navigation {
+    margin-top: 0; } }
+/* Large devices (large desktops, 1200px and up) */
+.img-right {
+  margin: 0 0 20px 20px;
+  width: 240px; }
+
+.img-center {
+  margin: 20px 0;
+  text-align: center; }
+
+.img-left {
+  margin: 0 20px 20px 0;
+  width: 240px; }
+
+.breadcrumb {
+  background-color: white;
+  padding: 0;
+  margin-bottom: 40px; }
+  .breadcrumb li {
+    font-size: 12px; }
+  .breadcrumb a {
+    color: #4d4e54; }
+  .breadcrumb a:hover {
+    background: white;
+    color: black; }
+
+.btn-etc,
+.btn-etc:visited {
+  background: #15a383;
+  border-radius: 0;
+  color: white;
+  font-size: 18px;
+  text-decoration: none; }
+
+.btn-etc:hover {
+  background: black;
+  color: white; }
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #columns {
+    -moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 20px; } }
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+
+/*# sourceMappingURL=style.css.map */
