@@ -28,6 +28,7 @@
   <section class="main-content" id="maincontent">
     <div class="container">
       <h2>About ETC</h2>
+      <div class="pull-right"><a href="http://www.experimentaltvcenter.org/"><img alt="ETC logo" src="img/fusion_starter_logo.png" style="width: 450px"></a></div>
               
       <p>The Experimental Television Center was founded in 1971 in Binghamton, NY, as an extension of Student Experiments in Television, a program created in 1969 at Binghamton University by Ralph Hocking. The center was moved to Owego, NY, in 1980.</p>
 
@@ -43,7 +44,7 @@
       <p>For more information, please see the <a href="http://www.experimentaltvcenter.org/">ETC website</a>.</p>
     </div>
   </section>
-  
+
   <?php include("inc/footer.php") ?>
   <?php include("inc/js.php") ?>
 </body>
