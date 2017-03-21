@@ -30,11 +30,11 @@
           </button>
           <div class="collapse navbar-collapse">
             <div class="nav navbar-nav">
-              <ul class="menu nav"><li><a href="browse.html">Browse collection</a></li>
-                <li><a href="artists.html">Artists</a></li>
-                <li><a href="tools.html">Tools and Technology</a></li>
-                <li><a href="about.html">About ETC</a></li>
-                <li><a href="contact.html">Contact</a></li>
+              <ul class="menu nav"><li><a href="browse.php">Browse collection</a></li>
+                <li><a href="artists.php">Artists</a></li>
+                <li><a href="tools.php">Tools and Technology</a></li>
+                <li><a href="about.php">About ETC</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
           </div>

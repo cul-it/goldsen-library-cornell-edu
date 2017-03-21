@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head profile="http://www.w3.org/1999/xhtml/vocab">
@@ -26,6 +25,7 @@
 <body class="front" >
 
   <?php include("inc/header.php") ?>
+
   <section class="main-content">
     <div class="container">
       <div class="row">
@@ -38,12 +38,12 @@
 
           <p>For more thorough information about the Experimental Television Center, its history, its mission, and its ongoing activities, please see the <a href="http://www.experimentaltvcenter.org/etc-home">ETC website</a>. Though officially closed since 2011, the ETC and its staff remain an active force in promoting, preserving, and advocating for media experimentation and media art history.</p>
 
-          <p><a href="about.html">Learn more about ETC »</a></p>
+          <p><a href="about.php">Learn more about ETC »</a></p>
         </div>
         <div class="home-secondary">     
           <h4>Tools and Technology</h4>
           <p><img alt="Jones sequencer" src="img/jonesseq.jpg" /></p>
-          <p><a href="tools.html">Learn about the tools and technology <i class="fa fa-chevron-right"> </i></a></p>    
+          <p><a href="tools.php">Learn about the tools and technology <i class="fa fa-chevron-right"> </i></a></p>    
           <h4>Rose Goldsen Archive of New Media Art</h4>
 
           <p><img alt="Jones sequencer" src="img/4_barbier.jpg" /></p>
