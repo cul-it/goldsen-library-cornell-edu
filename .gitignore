@@ -1,4 +1,4 @@
 # ignore drupal subsite
-etc/**
 .editorconfig
 etc2/css/.sass-cache/*
+etc/css/.sass-cache/*
