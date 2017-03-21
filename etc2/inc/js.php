@@ -1,9 +1,25 @@
-<!-- TODO: check/fix GA -->
+  <!-- GA -->
   <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-8097093-28", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-  <script src="http://goldsen.library.cornell.edu/etc/sites/all/modules/contributed/piwik/piwik.js?ogsxrh"></script>
-  <!-- TODO: check/fix Piwik -->
-  <script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://webanalytics.library.cornell.edu/" : "http://webanalytics.library.cornell.edu/");_paq.push(["setSiteId", "561"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();</script>
 
+  <!-- Piwik -->
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(["setDomains", ["*.goldsen.library.cornell.edu"]]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//webanalytics.library.cornell.edu/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', 561]);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <noscript><p><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=561" style="border:0;" alt="" /></p></noscript>
+  <!-- End Piwik Code -->
+
+
+  <!-- Jquery, bootstrap and image rotator -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script type="text/javascript">
     jQuery(document).ready(function() { 

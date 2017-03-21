@@ -1328,8 +1328,7 @@ body {
 /*------------------------------*/
 a {
   color: #15a383;
-  text-decoration: underline;
-  cursor: pointer; }
+  text-decoration: underline; }
 
 a:hover,
 a:active {
