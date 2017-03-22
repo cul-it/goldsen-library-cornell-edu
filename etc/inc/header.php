@@ -20,7 +20,7 @@
     <div class="container">
       <div class="site-title">
         <a href="http://goldsen.library.cornell.edu" class="secondary-brand">Rose Goldsen Archive of New Media Art</a>
-        <h1><a href="/etc2/">ETC / Experimental Television Center</a></h1>
+        <h1><a href="/etc/">ETC / Experimental Television Center</a></h1>
       </div>
       <div class="navigation">
         <div class="navbar">
