@@ -4,7 +4,7 @@
       <div class="row">
         <div class="cornell-brand">
           <div class="cu-logo">
-            <img src="img/cul-logo-gray.gif">
+            <img src="img/cul-logo-gray.gif" alt="Cornell University Library">
             <a id="insignia-link" href="http://www.cornell.edu/">Cornell Insignia</a>
             <div class="unit-signature-links">
               <a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>

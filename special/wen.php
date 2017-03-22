@@ -31,9 +31,9 @@
                 </div>
             	<h1>Wen Pulin Archive of Chinese Avant-Garde Art</h1>
                 <div class="floatright">
-                	<a href="http://wason.library.cornell.edu/Wen/archive.php" title="Wen Pulin Archive of Chinese Avant-Garde Art web site"><img src="/images/wen_zhanghuan.jpg" border="0" alt="Zhang Huan, To Add One Meter to an Anonymous Mountain" /></a>
+                	<a href="/wen/archive.php" title="Wen Pulin Archive of Chinese Avant-Garde Art web site"><img src="/images/wen_zhanghuan.jpg" border="0" alt="Zhang Huan, To Add One Meter to an Anonymous Mountain" /></a>
                     <div class="caption-box">
-                    	<p class="caption"><a href="http://wason.library.cornell.edu/Wen/archive.php" title="Wen Pulin Archive of Chinese Avant-Garde Art web site" class="bold">View the Wen Pulin Archive of Chinese Avant-Garde Art</a></p>
+                    	<p class="caption"><a href="/wen/archive.php" title="Wen Pulin Archive of Chinese Avant-Garde Art web site" class="bold">View the Wen Pulin Archive of Chinese Avant-Garde Art</a></p>
                     </div>
                 </div>
 		      	<p>The Wen Pulin Archive of Chinese Avant-Garde Art represents a unique archival venture between the Goldsen Achive and the Dongtai Academy of Art, Beijing, China, directed by Wen Pulin. As part of the collaboration, the Goldsen Archive and Cornell's <a href="https://asia.library.cornell.edu/collections/wason" title="Wason East Asia Collections web site">Wason East Asia Collections</a> digitized Wen Pulin's collection of 360 hours of videotape that documents Chinese contemporary art, installation, performance, video, and rock n' roll from 1985-2002. Shot and preserved by Wen Pulin, the tapes provide rare evidence of the events that helped shape Chinese contemporary art, such as the Great Earthquake performances on the Great Wall in 1988 and the 1989 China/Avant-Garde Exhibition whose governmental closure helped to catalyze the Tiananmen Square incident. Footage from that period is followed by invaluable documents of installations, concerts, and artist interviews during the period in the 1990s when international art markets opened themselves up to Chinese contemporary art. The Archive includes extensive footage of Chinese rock n' roll concerts.</p>
