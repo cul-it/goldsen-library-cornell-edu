@@ -1347,7 +1347,7 @@ h2 {
   color: black;
   margin: 0 0 1em;
   padding-bottom: 20px;
-  background: url("/etc/sites/all/themes/etc3/images/diagonal.png") repeat-x bottom; }
+  background: url("/etc/img/diagonal.png") repeat-x bottom; }
 
 h3 {
   text-transform: uppercase;
@@ -1477,7 +1477,7 @@ img {
 /* Header */
 /*------------------------------*/
 header {
-  background: #333 url("/etc/sites/all/themes/etc3/images/background/peermeryl1etc.jpg") no-repeat;
+  background: #333 url("/etc/img/background/peermeryl1etc.jpg") no-repeat;
   -webkit-background-size: cover !important;
   -moz-background-size: cover !important;
   -o-background-size: cover !important;
@@ -1487,14 +1487,14 @@ header {
   min-height: 220px !important; }
 
 .not-front header {
-  background: #333 url("/etc/sites/all/themes/etc3/images/background/boop3.jpg") no-repeat; }
+  background: #333 url("/etc/img/background/boop3.jpg") no-repeat; }
 
 .site-title h1 a {
   display: block;
   width: 196px;
   height: 204px;
   text-indent: -9999px;
-  background: url("/etc/sites/all/themes/etc3/images/etc-logo-320.png") no-repeat; }
+  background: url("/etc/img/etc-logo-320.png") no-repeat; }
 
 .site-subtitle h2 {
   font-weight: 400;
@@ -1587,7 +1587,7 @@ header {
   .home-primary .block {
     margin-bottom: 30px;
     padding-bottom: 30px;
-    background: url("/etc/sites/all/themes/etc3/images/diagonal.png") repeat-x bottom; }
+    background: url("/etc/img/diagonal.png") repeat-x bottom; }
 
 .home-secondary {
   position: relative;
@@ -1601,7 +1601,7 @@ header {
   .home-secondary .block {
     margin-bottom: 30px;
     padding-bottom: 30px;
-    background: url("/etc/sites/all/themes/etc3/images/diagonal.png") repeat-x bottom; }
+    background: url("/etc/img/diagonal.png") repeat-x bottom; }
     .home-secondary .block p {
       font-size: 14px; }
     .home-secondary .block img {
@@ -1707,7 +1707,7 @@ footer {
   .site-title h1 a {
     width: 421px;
     height: 111px;
-    background: url("/etc/sites/all/themes/etc3/images/etc-logo.png") no-repeat; }
+    background: url("/etc/img/etc-logo.png") no-repeat; }
 
   .secondary-brand,
   .secondary-brand:visited {
