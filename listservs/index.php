@@ -30,7 +30,7 @@
                 	<a href="/index.php" title="home">home</a> > listservs
                 </div>
             	<h1>Listservs</h1>
-		      	<p>The Goldsen Archive cooperates with the new media listserv, <span class="bold">-empyre-</span>, 'a soft-skinned space' of  emergent discourse among artists and theorists working at the leading edge of contemporary practice. Goldsen is developing an offline archive  of -empyre-s discursive repository: <a href="http://www.subtle.net/empyre/" title="-empyre- web site">http://www.subtle.net/empyre/</a>.</p>
+		      	<p>The Goldsen Archive cooperates with the new media listserv, <span class="bold">-empyre-</span>, 'a soft-skinned space' of  emergent discourse among artists and theorists working at the leading edge of contemporary practice. Goldsen is developing an offline archive  of -empyre-s discursive repository: <a href="http://empyre.library.cornell.edu/" title="-empyre- web site">http://empyre.library.cornell.edu/</a>.</p>
                 <a href="http://www.subtle.net/empyre/" title="-empyre- web site"><img src="/images/empyre_logo.gif" alt="-empyre- logo" border="0" /></a>
       	  	</div> <!--close #main -->
 
